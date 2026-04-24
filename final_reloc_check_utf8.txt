@@ -1,0 +1,16 @@
+﻿name	lastname	x	y	z
+Bard_Elemental_Armor	Bard Elemental Armor	-162.419998	49.639999	-158.500000
+Beastlord_Elemental_Armor	Beastlord Elemental Armor	-162.419998	54.639999	-158.500000
+Cleric_Elemental_Armor	Cleric Elemental Armor	-162.419998	59.639999	-158.500000
+Druid_Elemental_Armor	Druid Elemental Armor	-162.419998	64.639999	-158.500000
+Enchanter_Elemental_Armor	Enchanter Elemental Armor	-162.419998	69.639999	-158.500000
+Magician_Elemental_Armor	Magician Elemental Armor	-162.419998	74.639999	-158.500000
+Monk_Elemental_Armor	Monk Elemental Armor	-162.419998	79.639999	-158.500000
+Necromancer_Elemental_Armor	Necromancer Elemental Armor	-162.419998	84.639999	-158.500000
+Paladin_Elemental_Armor	Paladin Elemental Armor	-162.419998	89.639999	-158.500000
+Ranger_Elemental_Armor	Ranger Elemental Armor	-162.419998	94.639999	-158.500000
+Rogue_Elemental_Armor	Rogue Elemental Armor	-162.419998	99.639999	-158.500000
+Shadow Knight_Elemental_Armor	Shadow Knight Elemental Armor	-162.419998	104.639999	-158.500000
+Shaman_Elemental_Armor	Shaman Elemental Armor	-162.419998	109.639999	-158.500000
+Warrior_Elemental_Armor	Warrior Elemental Armor	-162.419998	114.639999	-158.500000
+Wizard_Elemental_Armor	Wizard Elemental Armor	-162.419998	119.639999	-158.500000

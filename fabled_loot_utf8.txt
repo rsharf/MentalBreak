@@ -1,0 +1,72 @@
+﻿id	name	item_id	chance	item_name
+2148	The_Fabled_Fippy_Darkpaw	68287	100	Fabled Fippy's Paw
+5134	The_Fabled_Grenix_Mucktail	5360	25	Polished Granite Tomahawk
+5134	The_Fabled_Grenix_Mucktail	68258	75	Fabled Polished Granite Tomahawk
+12169	The_Fabled_Chief_Goonda	68275	25	Fabled Batskull Earring
+13118	The_Fabled_GrimFeather	68251	100	Fabled Crafted Vambraces
+13118	The_Fabled_GrimFeather	10568	11.55	Rune of Ivy
+13118	The_Fabled_GrimFeather	13739	11.55	Griffon Eye
+13118	The_Fabled_GrimFeather	16538	11.9	Griffon Feathers
+16034	The_Fabled_King_Xorbb	10314	2	Polished Bone Bracelet
+16034	The_Fabled_King_Xorbb	6335	50	Slime Crystal Staff
+16034	The_Fabled_King_Xorbb	68267	50	Fabled Slime Crystal Staff
+33157	The_Fabled_Mooto	68230	100	Fabled Cloth Cap
+44105	#The_Fabled_Drelzna	2300	20	Journeyman's Boots
+44105	#The_Fabled_Drelzna	4211	16	Bronze Greaves
+44105	#The_Fabled_Drelzna	5310	16	Tentacle Whip
+44105	#The_Fabled_Drelzna	7308	16	Ashenwood Short Spear
+44105	#The_Fabled_Drelzna	7312	16	Stiletto of the Bloodclaw
+44105	#The_Fabled_Drelzna	10302	16	Earring of Disease Reflection
+44105	#The_Fabled_Drelzna	13422	100	Dark Elf Parts
+44105	#The_Fabled_Drelzna	20444	50	Bloodstained Key
+44105	#The_Fabled_Drelzna	20445	50	Golden Crescent Key
+44105	#The_Fabled_Drelzna	68239	100	Fabled Journeyman's Boots
+44106	#The_Fabled_Najena	1320	25	Flowing Black Robe
+44106	#The_Fabled_Najena	7009	25	Rusty Spear
+44106	#The_Fabled_Najena	10403	25	Clawed Knuckle-Ring
+44106	#The_Fabled_Najena	13400	25	Black Tome with Silver Runes
+44106	#The_Fabled_Najena	20445	100	Golden Crescent Key
+44106	#The_Fabled_Najena	5350	20	Fine Steel Long Sword
+44106	#The_Fabled_Najena	5352	20	Fine Steel Short Sword
+44106	#The_Fabled_Najena	5353	20	Fine Steel Scimitar
+44106	#The_Fabled_Najena	6350	20	Fine Steel Warhammer
+44106	#The_Fabled_Najena	12884	20	Fine Steel Rapier
+44106	#The_Fabled_Najena	68232	100	Fabled Flowing Black Robe
+58057	The_Fabled_Emperor_Crush	68264	100	Fabled Screaming Mace
+63096	The_Fabled_Garanel_Rucksif	68247	100	Fabled Dwarven Work Boots
+68246	The_Fabled_Zarchoomi	1025	2.25	Large Cloth Cap
+68246	The_Fabled_Zarchoomi	1026	2.25	Large Cloth Veil
+68246	The_Fabled_Zarchoomi	1027	2.25	Large Cloth Choker
+68246	The_Fabled_Zarchoomi	1028	2.25	Large Cloth Shirt
+68246	The_Fabled_Zarchoomi	1029	2	Large Cloth Shawl
+68246	The_Fabled_Zarchoomi	1030	2	Large Cloth Cape
+68246	The_Fabled_Zarchoomi	1031	2	Large Cloth Cord
+68246	The_Fabled_Zarchoomi	1032	2	Large Cloth Sleeves
+68246	The_Fabled_Zarchoomi	1033	2	Large Cloth Wristband
+68246	The_Fabled_Zarchoomi	1034	2	Large Cloth Gloves
+68246	The_Fabled_Zarchoomi	1035	2	Large Cloth Pants
+68246	The_Fabled_Zarchoomi	1036	2	Large Cloth Sandals
+68246	The_Fabled_Zarchoomi	13741	100	Ogre Head
+68246	The_Fabled_Zarchoomi	68244	100	Fabled Darkforge Gauntlets
+68249	The_Fabled_Corflunk	1025	2.25	Large Cloth Cap
+68249	The_Fabled_Corflunk	1026	2.25	Large Cloth Veil
+68249	The_Fabled_Corflunk	1027	2.25	Large Cloth Choker
+68249	The_Fabled_Corflunk	1028	2.25	Large Cloth Shirt
+68249	The_Fabled_Corflunk	1029	2	Large Cloth Shawl
+68249	The_Fabled_Corflunk	1030	2	Large Cloth Cape
+68249	The_Fabled_Corflunk	1031	2	Large Cloth Cord
+68249	The_Fabled_Corflunk	1032	2	Large Cloth Sleeves
+68249	The_Fabled_Corflunk	1033	2	Large Cloth Wristband
+68249	The_Fabled_Corflunk	1034	2	Large Cloth Gloves
+68249	The_Fabled_Corflunk	1035	2	Large Cloth Pants
+68249	The_Fabled_Corflunk	1036	2	Large Cloth Sandals
+68249	The_Fabled_Corflunk	68244	100	Fabled Darkforge Gauntlets
+68249	The_Fabled_Corflunk	13740	100	Ogre Head
+69135	The_Fabled_Allizewsaur	68286	25	Fabled Blue Diamond
+89191	#The_Fabled_Arch_Duke_Iatol	4532	40	Jaundiced Bone Bracer
+89191	#The_Fabled_Arch_Duke_Iatol	82715	40	Fabled Jaundiced Bone Bracer
+89192	#The_Fabled_Tolapumj	1624	50	Tolapumj's Robe
+89192	#The_Fabled_Tolapumj	82711	50	Fabled Tolapumj's Robe
+103218	#The_Fabled_Prince_Selrach_Di`zok	5624	50	Palladium Axe
+103218	#The_Fabled_Prince_Selrach_Di`zok	82726	50	Fabled Palladium Axe
+

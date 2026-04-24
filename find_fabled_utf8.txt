@@ -1,0 +1,25 @@
+﻿id	npc_name	zone_short_name	zone_name	expansion
+16034	The_Fabled_King_Xorbb	beholder	Gorge of King Xorbb	0
+68249	The_Fabled_Corflunk	butcher	Butcherblock Mountains	0
+68246	The_Fabled_Zarchoomi	butcher	Butcherblock Mountains	0
+58058	The_Fabled_Ambassador_Dvinn	crushbone	Crushbone	0
+58057	The_Fabled_Emperor_Crush	crushbone	Crushbone	0
+66176	The_Fabled_Ghoul_Assassin	gukbottom	The Ruins of Old Guk	0
+5134	The_Fabled_Grenix_Mucktail	highpass	Highpass Hold	0
+33157	The_Fabled_Mooto	misty	Misty Thicket	0
+44105	#The_Fabled_Drelzna	najena	Najena	0
+44106	#The_Fabled_Najena	najena	Najena	0
+13118	The_Fabled_GrimFeather	northkarana	The Northern Plains of Karana	0
+69135	The_Fabled_Allizewsaur	oot	Ocean of Tears	0
+12169	The_Fabled_Chief_Goonda	qey2hh1	The Western Plains of Karana	0
+2148	The_Fabled_Fippy_Darkpaw	qeynos2	North Qeynos	0
+35163	The_Fabled_Ancient_Cyclops	sro	Southern Desert of Ro	0
+63096	The_Fabled_Garanel_Rucksif	unrest	The Estate of Unrest	0
+63110	The_Fabled_Reclusive_Ghoul_Magus	unrest	The Estate of Unrest	0
+63095	The_Fabled_Undead_Barkeep	unrest	The Estate of Unrest	0
+63091	The_Fabled_Undead_Knight_Of_Unrest	unrest	The Estate of Unrest	0
+103218	#The_Fabled_Prince_Selrach_Di`zok	chardok	Chardok	1
+102127	#The_Fabled_Drolvarg_Captain	karnor	Karnor's Castle	1
+102130	#The_Fabled_Skeletal_Berserker	karnor	Karnor's Castle	1
+89191	#The_Fabled_Arch_Duke_Iatol	sebilis	The Ruins of Sebilis	1
+89192	#The_Fabled_Tolapumj	sebilis	The Ruins of Sebilis	1

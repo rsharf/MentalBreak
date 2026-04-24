@@ -1,0 +1,11 @@
+﻿merchantid	slot	item	faction_required	level_required	min_status	max_status	alt_currency_cost	classes_required	probability	bucket_name	bucket_value	bucket_comparison	min_expansion	max_expansion	content_flags	content_flags_disabled
+773	1	47001	-100	0	0	255	0	65535	100			0	-1	-1	NULL	NULL
+773	2	47002	-100	0	0	255	0	65535	100			0	-1	-1	NULL	NULL
+773	3	47003	-100	0	0	255	0	65535	100			0	-1	-1	NULL	NULL
+773	4	47004	-100	0	0	255	0	65535	100			0	-1	-1	NULL	NULL
+773	5	47005	-100	0	0	255	0	65535	100			0	-1	-1	NULL	NULL
+773	6	47006	-100	0	0	255	0	65535	100			0	-1	-1	NULL	NULL
+773	7	47007	-100	0	0	255	0	65535	100			0	-1	-1	NULL	NULL
+773	8	47008	-100	0	0	255	0	65535	100			0	-1	-1	NULL	NULL
+773	9	47009	-100	0	0	255	0	65535	100			0	-1	-1	NULL	NULL
+773	10	47010	-100	0	0	255	0	65535	100			0	-1	-1	NULL	NULL

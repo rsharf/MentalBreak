@@ -1,0 +1,28 @@
+﻿id	name	price
+5532	Water Sprinkler of Nem Ankh	0
+8495	Claw of the Savage Spirit	0
+10099	Fiery Defender	0
+10650	Staff of the Serpent	0
+10651	Spear of Fate	0
+10652	Celestial Fists	0
+10908	Jagged Blade of War	0
+11057	Ragebringer	0
+12665	Staff of Prismatic Power	0
+14341	Staff of the Four	0
+14383	Innoruuk's Curse	0
+16576	Staff of Phenomenal Power	0
+18609	Vengeful Taelosian Blood Axe	0
+20487	Swiftwind	0
+20488	Earthcaller	0
+20490	Nature Walkers Scimitar	0
+20542	Singing Short Sword	0
+20544	Scythe of the Shadowed Soul	0
+48136	Innoruuk's Dark Blessing	0
+57405	Blessed Spiritstaff of the Heyokah	0
+62649	Aurora, the Heartwood Blade	0
+62880	Staff of Everliving Brambles	0
+64031	Redemption	0
+64067	Deathwhisper	0
+67742	Transcended Fistwraps of Immortality	0
+68299	Kerasian Axe of Ire	0
+77640	Blade of Vesagran	0

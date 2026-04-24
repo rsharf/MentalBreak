@@ -1,0 +1,120 @@
+﻿id	name
+6369	Battle Worn Morning Star
+12539	Black Acrylia Morning Star
+51684	Broken Staff of Temperate Flux
+6024	Bronze Morning Star
+46214	Ceremonial Nokk Morningstar
+6355	Cold Iron Morning Star
+56113	Cold Iron Morning Star
+62929	Cold Iron Morning Star
+30215	Coldain Velium Morning Star
+12525	Combine Acrylia Morning Star
+6311	Combine Morning Star
+29412	Dark Steel Morning Star
+11648	DawnFire, Morning Star of Light
+147398	DawnFire, Morning Star of Light
+25177	Drakkel Steel Morning Star
+5207	Enchanted Battleworn Morning Star
+5214	Enchanted Fine Steel Morning Star
+54813	Faded Cold Iron Morning Star
+6372	Feir`Dal Morning Star
+6351	Fine Steel Morning Star
+29287	Focused Ethereal Morning Star
+11890	Forged Deathsteel Morning Star
+7895	Forged Firebrand Morning Star
+5063	Forged Morning Star
+30281	Forged Velium Morning Star
+63594	Gem-Hafted Morningstar
+63583	Gem-Inlaid Morningstar Haft
+63577	Gem-Inlaid Morningstar Head
+63595	Gemmed Morningstar
+63587	Gold-Headed Morningstar
+63600	Golden Gem-Hafted Morningstar
+63599	Golden Gem-Headed Morningstar
+63601	Golden Gemmed Morningstar
+63585	Golden Inlaid Morningstar Haft
+63579	Golden Inlaid Morningstar Head
+63589	Golden Morningstar
+63581	Golden Morningstar Haft
+63575	Golden Morningstar Head
+9358	Greennose Scourgers' Morning Star
+82073	Heavy Stone Morningstar
+68299	Kerasian Axe of Ire
+127915	Kerasian Axe of Ire Ornamentation
+87060	Mennelle's Worn Morning Star
+21584	Mithril Feir`Dal Morning Star
+21589	Mithril Feir`Dal Morning Star
+21594	Mithril Feir`Dal Morning Star
+21599	Mithril Feir`Dal Morning Star
+6008	Morning Star
+51877	Morning Star
+62521	Morningstar Head Mold
+82155	Morningstar of a Highborn Champion
+36758	Morningstar of the Darkpriest
+24506	Morningstar of the Sea Zombie
+36775	Morningstar of the Stoutdeacon
+127587	Narikor Slave Morning Star
+6037	Orcish Morning Star
+63591	Pale Gem-Hafted Morningstar
+63590	Pale Gem-Headed Morningstar
+63592	Pale Gemmed Morningstar
+63582	Pale Gemmed Morningstar Haft
+63576	Pale Gemmed Morningstar Head
+63584	Pale Golden Inlaid Morningstar Haft
+63578	Pale Golden Inlaid Morningstar Head
+63598	Pale Golden Morningstar
+63597	Pale Golden-Hafted Morningstar
+63596	Pale Golden-Headed Morningstar
+63606	Pale Platinum Inlaid Morningstar Haft
+63603	Pale Platinum Inlaid Morningstar Head
+63613	Pale Platinum Morningstar
+63612	Pale Platinum-Hafted Morningstar
+63611	Pale Platinum-Headed Morningstar
+63621	Pale Velium Inlaid Morningstar Haft
+63618	Pale Velium Inlaid Morningstar Head
+63628	Pale Velium Morningstar
+63627	Pale Velium-Hafted Morningstar
+63626	Pale Velium-Headed Morningstar
+120554	Phantasmic Morningstar
+63615	Platinum Gem-Hafted Morningstar
+63614	Platinum Gem-Headed Morningstar
+63616	Platinum Gemmed Morningstar
+63607	Platinum Inlaid Morningstar Haft
+63604	Platinum Inlaid Morningstar Head
+63610	Platinum Morningstar
+63605	Platinum Morningstar Haft
+63602	Platinum Morningstar Head
+63609	Platinum-Hafted Morningstar
+63608	Platinum-Headed Morningstar
+20300	Refined Sylvan Morning Star
+6343	Ruined Battleworn Morning Star
+6606	Runed Morning Star
+6016	Rusty Morning Star
+20297	Rusty Sylvan Morning Star
+6101	Shadowed Morning Star
+63586	Shimmering Morningstar
+63580	Shimmering Morningstar Haft
+63574	Shimmering Morningstar Head
+19208	Spell: Divine Light
+51686	Staff of Elemental Flux
+11596	Staff of Fluxing Power
+6342	Staff of Temperate Flux
+127554	Staff of Viral Flux
+52167	Suffusive Morning Star
+14848	Superior Combine Morning Star
+20330	Sylvan Initiate Morningstar
+5228	Tainted Battleworn Morning Star
+6033	Tarnished Morning Star
+6367	Teir`Dal Morning Star
+63630	Velium Gem-Hafted Morningstar
+63629	Velium Gem-Headed Morningstar
+63631	Velium Gemmed Morningstar
+63622	Velium Inlaid Morningstar Haft
+63619	Velium Inlaid Morningstar Head
+30205	Velium Morning Star
+63625	Velium Morningstar
+63620	Velium Morningstar Haft
+63617	Velium Morningstar Head
+63624	Velium-Hafted Morningstar
+63623	Velium-Headed Morningstar
+11304	Vial of Elemental Binding

@@ -1,0 +1,21 @@
+﻿id	name
+77640	Blade of Vesagran
+127948	Blade of Vesagran Ornamentation
+39934	Boots of Vesagran
+39932	Bracer of Vesagran
+39935	Breastplate of Vesagran
+51684	Broken Staff of Temperate Flux
+39933	Gauntlets of Vesagran
+39936	Greaves of Vesagran
+39930	Helm of Vesagran
+68299	Kerasian Axe of Ire
+127915	Kerasian Axe of Ire Ornamentation
+77115	Spell: Verse of Vesagran
+51686	Staff of Elemental Flux
+62880	Staff of Everliving Brambles
+127952	Staff of Everliving Brambles Ornamentation
+11596	Staff of Fluxing Power
+6342	Staff of Temperate Flux
+127554	Staff of Viral Flux
+39931	Vambraces of Vesagran
+89478	Vesagran Shard of the Ancients

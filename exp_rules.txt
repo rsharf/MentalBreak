@@ -1,0 +1,58 @@
+﻿AA:ExpPerPoint = 23976503 | Amount of experience per AA. Is the same as the amount of experience to go from level 51 to level 52
+AA:MaxAAEXPPerKill = -1 | Maximum AA EXP per Kill (3425214 is about 7%) - Default: -1 will disable the check
+Bots:BotExpansionSettings = 16383 | Sets the expansion settings for bot use. Defaults to all expansions enabled up to TSS
+Character:AAExpMultiplier = 0.6499999761581 | If greater than 0, the AA experience gained is multiplied by this value. 
+Character:AAExpMultiplier = 0.65 | If greater than 0, the AA experience gained is multiplied by this value. 
+Character:DeathExpLossLevel = 255 | Any level equal to or greater than this will lose experience at death
+Character:DeathExpLossMaxLevel = 1 | Every higher level will no longer lose experience at death
+Character:DeathExpLossMultiplier = 0 | Adjust how much experience is lost. Default 3.5% (0=0.5%, 1=1.5%, 2=2.5%, 3=3.5%, 4=4.5%, 5=5.5%, 6=6.5%, 7=7.5%, 8=8.5%, 9=9.5%, 10=11%)
+Character:EnableCharacterEXPMods = false | Enables character zone-based experience modifiers.
+Character:EnableGroupEXPModifier = true | Enable or disable the group experience modifier in group, default is true
+Character:EnableGroupMemberEXPModifier = true | Enable or disable the group member experience modifier based on number of players in group, default is true
+Character:EnableRaidEXPModifier = true | Enable or disable the raid experience modifier, default is true
+Character:EnableRaidMemberEXPModifier = true | Enable or disable the raid experience modifier based on members in raid, default is true
+Character:ExperiencePercentCapPerKill = -1 | Caps the percentage of experience that can be gained per kill. -1 disables the cap; 0 blocks all (non-aa) xp.
+Character:ExpMultiplier = 0.6499999761581 | If greater than 0, the experience gained is multiplied by this value. 
+Character:ExpMultiplier = 0.65 | If greater than 0, the experience gained is multiplied by this value. 
+Character:FinalExpMultiplier = 1 | Added on top of everything else, easy for setting EXP events
+Character:FinalRaidExpMultiplier = 1.0000000000000 | Multiplies all raid experience by this value. Default: 1.0
+Character:FullGroupEXPModifier = 2.1600000858307 | Sets the group experience modifier for a full group, default is 2.16
+Character:GroupExpMultiplier = 0.6499999761581 | The experience in a group is multiplied by this value in addition to the group multiplier. The group multiplier is: 2 members=x 1.2, 3=x1.4, 4=x1.6, 5=x1.8, 6=x2.16
+Character:GroupExpMultiplier = 0.65 | The experience in a group is multiplied by this value in addition to the group multiplier. The group multiplier is: 2 members=x 1.2, 3=x1.4, 4=x1.6, 5=x1.8, 6=x2.16
+Character:GroupMemberEXPModifier = 0.2000000029802 | Sets the group experience modifier per members between 2 and 5, default is 0.2
+Character:MaxExpLevel = 70 | Defines the maximum level that can be reached through experience
+Character:MaxExpLevel = 70 | Defines the maximum level that can be reached through experience
+Character:RaidExpMultiplier = 0.2000000029802 | The experience gained in raids is multiplied by (1-RaidExpMultiplier) 
+Character:ShowExpValues = 0 | Show experience values. 0=normal, 1=show raw experience values, 2=show raw experience values and percent
+Character:UseDeathExpLossMult = false | Setting to control whether DeathExpLossMultiplier or the code default is used: (Level x Level / 18.0) x 12000
+Character:UseOldClassExpPenalties = false | Setting this to true will enable old class experience penalties for Paladin, SK, Ranger, Bard, Monk, Wizard, Enchanter, Magician, and Necromancer, as well as the bonus for Rogues and Warriors
+Character:UseOldRaceExpPenalties = false | Setting this to true will enable racial experience penalties for Iksar, Troll, Ogre, and Barbarian, as well as the bonus for Halflings
+Character:UseRaceClassExpBonuses = true | Setting this to true will enable Class and Racial experience rate bonuses
+Character:UseXPConScaling = true | When activated, the experience is modified depending on the difference between player level and NPC level. The values from the rules GreenModifier to RedModifier are used
+Chat:MaxPermanentPlayerChannels = 0 | Maximum number of permanent chat channels a player can make. Default 0.
+Combat:EXPFromDmgShield = false | Determine if damage from a damage shield counts for experience gain
+Combat:MaxProcs = 4 | Adjustable maximum number of procs per round, the hard cap is MAX_PROCS (11). Requires mob repop or client zone when changed
+EvolvingItems:PercentOfGroupExperience = 0.1000000014901 | Percentage of group experience allocated to evolving items that require experience.
+EvolvingItems:PercentOfRaidExperience = 0.1000000014901 | Percentage of raid experience allocated to evolving items that require experience.
+EvolvingItems:PercentOfSoloExperience = 0.1000000014901 | Percentage of solo experience allocated to evolving items that require experience.
+Expansion:AutoGrantAAExpansion = -1 | Expansion to auto grant AAs up to, [-1 = Disabled, 0 = Classic, 1 = Kunark etc.]
+Expansion:CurrentExpansion = 9 | The current expansion enabled for the server [-1 = ALL, 0 = Classic, 1 = Kunark etc.]
+Expansion:UseCurrentExpansionAAOnly = true | When true will only load AA ranks that match CurrentExpansion rule
+Expedition:AlwaysNotifyNewLeaderOnChange = false | Always notify clients when made expedition leader. If false (live-like) new leaders are only notified when made leader via /dzmakeleader
+Expedition:ChooseLeaderCooldownTime = 2000 | Cooldown time (milliseconds) between choosing a new leader for automatic leader changes
+Expedition:LockoutDurationMultiplier = 1.0000000000000 | Multiplies lockout duration by this value when new lockouts are added
+Expedition:MinStatusToBypassPlayerCountRequirements = 80 | Minimum GM status to bypass minimum player requirements for Expedition creation
+Instances:ExpireOffsetTimeSeconds = 3600 | Amount of seconds to beyond instance expiration time we wait to purge the entry from the database. (Default: 1 Hour)
+Instances:GuildHallExpirationDays = 90 | Amount of days before a Guild Hall instance expires
+Mail:ExpireRead = 31536000 | Setting when read mails expire. 31536000=1 Year. Set to -1 for never
+Mail:ExpireTrash = 0 | Setting when the mail trash is emptied. Time in seconds. 0 will delete all messages in the trash when the mailserver starts
+Mail:ExpireUnread = 31536000 | Setting when unread mails expire. 31536000=1 Year. Set to -1 for never
+Map:FixPathingZMaxDeltaSendTo = 20.0000000000000 | At runtime in SendTo: maximum change in Z to allow the BestZ code to apply
+Map:FixPathingZOnSendTo = false | Try to repair Z coordinates in the SendTo routine as well
+TaskSystem:ExpRewardsIgnoreLevelBasedEXPMods = false | Rewarding Level Based Exp will ignore Rule LevelBasedEXPMods if true
+World:CharacterSelectExpansionSettings = 522239 | Sets the expansion settings bitmask for character select if you wish to override. -1 is off
+World:ExpansionSettings = 524287 | Sets the expansion settings bitmask for the server, This is sent on login to world and affects client expansion settings. Defaults to all expansions enabled up to TSS, value is bitmask
+World:UseClientBasedExpansionSettings = false | If true it will overrule World, ExpansionSettings and set someone's expansion based on the client they're using
+World:UseOldShadowKnightClassExport = true | Disable to have Shadowknight show as Shadow Knight (live-like)
+Zone:LevelBasedEXPMods = true | Allows you to use the level_exp_mods table in consideration to your players experience hits
+Zone:LevelBasedEXPMods = false | Allows you to use the level_exp_mods table in consideration to your players experience hits

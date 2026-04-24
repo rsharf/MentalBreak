@@ -1,0 +1,558 @@
+{
+    "Singing Short Sword": [
+        {
+            "id": "5001",
+            "name": "Short Sword"
+        },
+        {
+            "id": "13920",
+            "name": "Short Sword"
+        },
+        {
+            "id": "20542",
+            "name": "Singing Short Sword"
+        },
+        {
+            "id": "127913",
+            "name": "Singing Short Sword Ornamentation"
+        },
+        {
+            "id": "22246",
+            "name": "Sword"
+        }
+    ],
+    "Blade of Vesagrop": [],
+    "Claw of the Savage Spirit": [
+        {
+            "id": "8495",
+            "name": "Claw of the Savage Spirit"
+        },
+        {
+            "id": "8496",
+            "name": "Claw of the Savage Spirit"
+        },
+        {
+            "id": "127914",
+            "name": "Primary Claw of the Savage Spirit Ornamentation"
+        }
+    ],
+    "Spirit-Shorn Daws": [
+        {
+            "id": "13012",
+            "name": "Horn"
+        }
+    ],
+    "Kerasian Axe of Spite": [
+        {
+            "id": "5007",
+            "name": "Axe"
+        },
+        {
+            "id": "17947",
+            "name": "Spit"
+        },
+        {
+            "id": "94420",
+            "name": "Spite"
+        }
+    ],
+    "Vengeful Taelosian Blood Axe": [
+        {
+            "id": "5007",
+            "name": "Axe"
+        },
+        {
+            "id": "67325",
+            "name": "Blood Axe"
+        },
+        {
+            "id": "20072",
+            "name": "Unhoned Vengeful Taelosian Blood Axe"
+        },
+        {
+            "id": "18609",
+            "name": "Vengeful Taelosian Blood Axe"
+        },
+        {
+            "id": "127950",
+            "name": "Vengeful Taelosian Blood Axe Ornamentation"
+        }
+    ],
+    "Water Sprinkler of Nem Ankh": [
+        {
+            "id": "80832",
+            "name": "Water"
+        },
+        {
+            "id": "80862",
+            "name": "Water"
+        },
+        {
+            "id": "5532",
+            "name": "Water Sprinkler of Nem Ankh"
+        },
+        {
+            "id": "127916",
+            "name": "Water Sprinkler of Nem Ankh Ornamentation"
+        }
+    ],
+    "Aegis of Divine Light": [
+        {
+            "id": "80836",
+            "name": "Light"
+        },
+        {
+            "id": "80866",
+            "name": "Light"
+        }
+    ],
+    "Nature Walker's Scimitar": [
+        {
+            "id": "20490",
+            "name": "Nature Walkers Scimitar"
+        },
+        {
+            "id": "127917",
+            "name": "Nature Walkers Scimitar Ornamentation"
+        },
+        {
+            "id": "5009",
+            "name": "Scimitar"
+        }
+    ],
+    "Staff of Everliving Brambles": [
+        {
+            "id": "6002",
+            "name": "Staff"
+        },
+        {
+            "id": "62880",
+            "name": "Staff of Everliving Brambles"
+        },
+        {
+            "id": "127952",
+            "name": "Staff of Everliving Brambles Ornamentation"
+        }
+    ],
+    "Staff of the Serpent": [
+        {
+            "id": "6002",
+            "name": "Staff"
+        },
+        {
+            "id": "10650",
+            "name": "Staff of the Serpent"
+        },
+        {
+            "id": "127918",
+            "name": "Staff of the Serpent Ornamentation"
+        }
+    ],
+    "Staff of Phenomenal Power": [
+        {
+            "id": "6002",
+            "name": "Staff"
+        },
+        {
+            "id": "16576",
+            "name": "Staff of Phenomenal Power"
+        },
+        {
+            "id": "127963",
+            "name": "Staff of Phenomenal Power Ornamentation"
+        },
+        {
+            "id": "67778",
+            "name": "Unpowered Staff of Phenomenal Power"
+        }
+    ],
+    "Scythe of the Shadowed Soul": [
+        {
+            "id": "5010",
+            "name": "Scythe"
+        },
+        {
+            "id": "20544",
+            "name": "Scythe of the Shadowed Soul"
+        },
+        {
+            "id": "127921",
+            "name": "Scythe of the Shadowed Soul Ornamentation"
+        },
+        {
+            "id": "80834",
+            "name": "Shadow"
+        },
+        {
+            "id": "80864",
+            "name": "Shadow"
+        }
+    ],
+    "Focus of Elemental Binding": [
+        {
+            "id": "80844",
+            "name": "Elemental"
+        },
+        {
+            "id": "80874",
+            "name": "Elemental"
+        }
+    ],
+    "Celestial Fists": [
+        {
+            "id": "1689",
+            "name": "Book of Celestial Fists"
+        },
+        {
+            "id": "1683",
+            "name": "Celestial Fists"
+        },
+        {
+            "id": "10652",
+            "name": "Celestial Fists"
+        },
+        {
+            "id": "36224",
+            "name": "Celestial Fists"
+        },
+        {
+            "id": "127920",
+            "name": "Celestial Fists Ornamentation"
+        },
+        {
+            "id": "28099",
+            "name": "Tainted Celestial Fists"
+        }
+    ],
+    "Transcended Fistwraps of Obscurity": [],
+    "Deathwhisper": [
+        {
+            "id": "80878",
+            "name": "Death"
+        },
+        {
+            "id": "64067",
+            "name": "Deathwhisper"
+        },
+        {
+            "id": "127956",
+            "name": "Deathwhisper Ornamentation"
+        },
+        {
+            "id": "89481",
+            "name": "Deathwhisper Shard of the Ancients"
+        }
+    ],
+    "Fiery Defender": [
+        {
+            "id": "28096",
+            "name": "Doused Fiery Defender"
+        },
+        {
+            "id": "10099",
+            "name": "Fiery Defender"
+        },
+        {
+            "id": "127923",
+            "name": "Fiery Defender Ornamentation"
+        }
+    ],
+    "Redemption": [
+        {
+            "id": "106327",
+            "name": "Aethercast Shield of Greater Redemption"
+        },
+        {
+            "id": "105827",
+            "name": "Aethercast Shield of Redemption"
+        },
+        {
+            "id": "70053",
+            "name": "Cold Ore of Redemption"
+        },
+        {
+            "id": "71162",
+            "name": "Dull Icon of Redemption"
+        },
+        {
+            "id": "101050",
+            "name": "Flail of Redemption"
+        },
+        {
+            "id": "71239",
+            "name": "Muddy Stone of Earthen Redemption"
+        },
+        {
+            "id": "64031",
+            "name": "Redemption"
+        },
+        {
+            "id": "127941",
+            "name": "Redemption Ornamentation"
+        },
+        {
+            "id": "94745",
+            "name": "Shawl of Redemption"
+        },
+        {
+            "id": "78149",
+            "name": "Spell: Elixir of Redemption"
+        },
+        {
+            "id": "78150",
+            "name": "Spell: Elixir of Redemption Rk. II"
+        },
+        {
+            "id": "78151",
+            "name": "Spell: Elixir of Redemption Rk. III"
+        },
+        {
+            "id": "19229",
+            "name": "Spell: Word of Redemption"
+        },
+        {
+            "id": "70054",
+            "name": "Warm Ore of Redemption"
+        }
+    ],
+    "Swiftwind": [
+        {
+            "id": "11667",
+            "name": "Monsoon, Sword of the Swiftwind"
+        },
+        {
+            "id": "147400",
+            "name": "Monsoon, Sword of the Swiftwind"
+        },
+        {
+            "id": "70504",
+            "name": "Sleek Swiftwind Cloak"
+        },
+        {
+            "id": "20487",
+            "name": "Swiftwind"
+        },
+        {
+            "id": "128315",
+            "name": "Swiftwind Bone Trinket"
+        },
+        {
+            "id": "71244",
+            "name": "Swiftwind Necklace"
+        }
+    ],
+    "Earthcaller": [
+        {
+            "id": "7243",
+            "name": "Blade of the Earthcaller"
+        },
+        {
+            "id": "80804",
+            "name": "Earth"
+        },
+        {
+            "id": "80820",
+            "name": "Earth"
+        },
+        {
+            "id": "80850",
+            "name": "Earth"
+        },
+        {
+            "id": "20488",
+            "name": "Earthcaller"
+        },
+        {
+            "id": "127924",
+            "name": "Earthcaller Ornamentation"
+        },
+        {
+            "id": "30835",
+            "name": "Gor Taku Earthcaller's Stone"
+        }
+    ],
+    "Aurora, the Morning Star": [
+        {
+            "id": "6008",
+            "name": "Morning Star"
+        },
+        {
+            "id": "51877",
+            "name": "Morning Star"
+        }
+    ],
+    "Ragebringer": [
+        {
+            "id": "69913",
+            "name": "Couragebringer"
+        },
+        {
+            "id": "28153",
+            "name": "Cracked Ragebringer"
+        },
+        {
+            "id": "69911",
+            "name": "Fractured Couragebringer"
+        },
+        {
+            "id": "69912",
+            "name": "Fractured Couragebringer"
+        },
+        {
+            "id": "84101",
+            "name": "Morden's Ragebringer"
+        },
+        {
+            "id": "11057",
+            "name": "Ragebringer"
+        },
+        {
+            "id": "127925",
+            "name": "Ragebringer Ornamentation"
+        }
+    ],
+    "Razor of Shadows": [
+        {
+            "id": "80834",
+            "name": "Shadow"
+        },
+        {
+            "id": "80864",
+            "name": "Shadow"
+        }
+    ],
+    "Innoruuk's Curse": [
+        {
+            "id": "28155",
+            "name": "Dispelled Innoruuk's Curse"
+        },
+        {
+            "id": "14383",
+            "name": "Innoruuk's Curse"
+        },
+        {
+            "id": "127927",
+            "name": "Innoruuk's Curse Ornamentation"
+        }
+    ],
+    "Innoruuk's Dark Blessing": [
+        {
+            "id": "48136",
+            "name": "Innoruuk's Dark Blessing"
+        },
+        {
+            "id": "127960",
+            "name": "Innoruuk's Dark Blessing Ornamentation"
+        }
+    ],
+    "Spear of Fate": [
+        {
+            "id": "7003",
+            "name": "Spear"
+        },
+        {
+            "id": "10651",
+            "name": "Spear of Fate"
+        },
+        {
+            "id": "36223",
+            "name": "Spear of Fate"
+        },
+        {
+            "id": "127926",
+            "name": "Spear of Fate Ornamentation"
+        }
+    ],
+    "Blessed Spiritstaff of the Heyokah": [
+        {
+            "id": "57405",
+            "name": "Blessed Spiritstaff of the Heyokah"
+        },
+        {
+            "id": "127961",
+            "name": "Blessed Spiritstaff of the Heyokah Ornamentation"
+        },
+        {
+            "id": "6002",
+            "name": "Staff"
+        }
+    ],
+    "Jagged Blade of War": [
+        {
+            "id": "25989",
+            "name": "Blade of War"
+        },
+        {
+            "id": "10908",
+            "name": "Jagged Blade of War"
+        },
+        {
+            "id": "66175",
+            "name": "Jagged Blade of War"
+        },
+        {
+            "id": "127930",
+            "name": "Jagged Blade of War Ornamentation"
+        }
+    ],
+    "Krelwin's Vedium Sword": [
+        {
+            "id": "22246",
+            "name": "Sword"
+        }
+    ],
+    "Staff of the Flux": [
+        {
+            "id": "6002",
+            "name": "Staff"
+        }
+    ],
+    "Staff of Prismatic Power": [
+        {
+            "id": "6002",
+            "name": "Staff"
+        },
+        {
+            "id": "12665",
+            "name": "Staff of Prismatic Power"
+        },
+        {
+            "id": "127947",
+            "name": "Staff of Prismatic Power Ornamentation"
+        }
+    ],
+    "Staff of the Four": [
+        {
+            "id": "76164",
+            "name": "Fabled Greatstaff of the Four Winds"
+        },
+        {
+            "id": "24780",
+            "name": "Greatstaff of the Four Winds"
+        },
+        {
+            "id": "76811",
+            "name": "Greatstaff of the Four Winds Ornament Sketch"
+        },
+        {
+            "id": "76784",
+            "name": "Greatstaff of the Four Winds Ornamentation"
+        },
+        {
+            "id": "6002",
+            "name": "Staff"
+        },
+        {
+            "id": "14341",
+            "name": "Staff of the Four"
+        },
+        {
+            "id": "127931",
+            "name": "Staff of the Four Ornamentation"
+        },
+        {
+            "id": "76838",
+            "name": "Unfired Greatstaff of the Four Winds Ornament"
+        }
+    ]
+}

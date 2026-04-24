@@ -1,0 +1,13 @@
+﻿comparison
+NPC_TYPES - Before vs After (custom HP NPCs)
+id	old_hp	new_hp	old_min	new_min	old_max	new_max
+500	11	6	1	1	8	6
+501	46	23	1	1	14	10
+502	126	63	1	1	16	11
+503	159	80	1	1	18	13
+504	251	126	1	1	20	14
+505	324	162	1	1	22	15
+506	404	202	1	1	26	18
+507	483	242	1	1	28	20
+508	568	284	2	1	32	22
+509	668	334	4	3	36	25

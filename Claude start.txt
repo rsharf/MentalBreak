@@ -1,0 +1,3 @@
+cd "D:\app ideas\MentalBreak"
+
+claude --dangerously-skip-permissions

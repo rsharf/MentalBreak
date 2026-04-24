@@ -1,0 +1,81 @@
+﻿id	name
+106408	Baneband of Manaflux
+7243	Blade of the Earthcaller
+51684	Broken Staff of Temperate Flux
+106311	Chain of Earthen Flux
+8495	Claw of the Savage Spirit
+8496	Claw of the Savage Spirit
+69913	Couragebringer
+28153	Cracked Ragebringer
+28096	Doused Fiery Defender
+7130	Earring of Influxed Gravity
+20488	Earthcaller
+127924	Earthcaller Ornamentation
+10099	Fiery Defender
+127923	Fiery Defender Ornamentation
+5523	Fluxbladed Axe
+11576	Fluxing Chunk of Ore
+11448	Fluxing Gem
+11474	Fluxing Rune
+11445	Fluxing Staff
+69911	Fractured Couragebringer
+69912	Fractured Couragebringer
+106318	Gird of Earthen Flux
+30835	Gor Taku Earthcaller's Stone
+9940	Jagged Blade of the Steel Warrior
+10908	Jagged Blade of War
+66175	Jagged Blade of War
+127930	Jagged Blade of War Ornamentation
+11667	Monsoon, Sword of the Swiftwind
+147400	Monsoon, Sword of the Swiftwind
+84101	Morden's Ragebringer
+25404	Nature Walker's Boots
+25401	Nature Walker's Bracer
+25399	Nature Walker's Chestguard
+25398	Nature Walker's Circlet
+25402	Nature Walker's Gauntlets
+25403	Nature Walker's Greaves
+2705	Nature Walker's Mantle
+20730	Nature Walker's Sky Emerald
+25400	Nature Walker's Vambraces
+20490	Nature Walkers Scimitar
+127917	Nature Walkers Scimitar Ornamentation
+127914	Primary Claw of the Savage Spirit Ornamentation
+11057	Ragebringer
+127925	Ragebringer Ornamentation
+121352	Savage Spiritblade
+70504	Sleek Swiftwind Cloak
+10651	Spear of Fate
+36223	Spear of Fate
+127926	Spear of Fate Ornamentation
+15350	Spell: Chaos Flux
+118353	Spell: Color Conflux
+118354	Spell: Color Conflux Rk. II
+118355	Spell: Color Conflux Rk. III
+15290	Spell: Color Flux
+16204	Spell: Color Flux
+19298	Spell: Deflux
+15313	Spell: Fire Flux
+15189	Spell: Flame Flux
+15073	Spell: Gravity Flux
+16232	Spell: Gravity Flux
+16336	Spell: Gravity Flux
+118564	Spell: Iceflame Efflux
+118565	Spell: Iceflame Efflux Rk. II
+118566	Spell: Iceflame Efflux Rk. III
+19390	Spell: Memory Flux
+30475	Spell: Nature Walker's Behest
+119534	Spell: Remote Manaflux
+119535	Spell: Remote Manaflux Rk. II
+119536	Spell: Remote Manaflux Rk. III
+15140	Spell: Savage Spirit
+51686	Staff of Elemental Flux
+11596	Staff of Fluxing Power
+6342	Staff of Temperate Flux
+127554	Staff of Viral Flux
+20487	Swiftwind
+128315	Swiftwind Bone Trinket
+71244	Swiftwind Necklace
+113535	Trade-In Gem: Remote Manaflux Rk. II
+5532	Water Sprinkler of Nem Ankh
+127916	Water Sprinkler of Nem Ankh Ornamentation

@@ -1,0 +1,8 @@
+﻿id	name	price
+9629	Raex's Helm of Destruction	0
+11138	Raex's Bracer of Destruction	0
+11429	Raex's Armplates of Destruction	0
+12595	Raex's Gauntlets of Destruction	0
+16693	Raex's Greaves of Destruction	0
+19440	Raex's Boots of Destruction	0
+47642	Raex's Chestplate of Destruction	0

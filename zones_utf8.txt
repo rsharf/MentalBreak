@@ -1,0 +1,51 @@
+﻿short_name	long_name
+abysmal	The Abysmal Sea
+acrylia	The Acrylia Caverns
+airplane	The Plane of Sky
+akanon	Ak'Anon
+akheva	The Akheva Ruins
+anguish	Anguish, the Fallen Palace
+apprentice	Designer Apprentice
+arcstone	Arcstone, Isle of Spirits
+arena	The Arena
+arena2	The Arena Two
+arttest	Art Testing Domain
+ashengate	Ashengate, Reliquary of the Scale
+atiiki	Jewel of Atiiki
+aviak	Aviak Village
+barindu	Barindu, Hanging Gardens
+barren	Barren Coast
+barter	The Barter Hall
+bazaar	The Bazaar
+befallen	Befallen
+befallenb	Befallen
+beholder	Gorge of King Xorbb
+bertoxtemple	Temple of Bertoxxulous
+blackburrow	Blackburrow
+blacksail	Blacksail Folly
+bloodfields	The Bloodfields
+bloodmoon	Bloodmoon Keep
+bothunder	Bastion of Thunder
+broodlands	The Broodlands
+buriedsea	The Buried Sea
+burningwood	The Burning Wood
+butcher	Butcherblock Mountains
+cabeast	Cabilis East
+cabwest	Cabilis West
+cauldron	Dagnor's Cauldron
+causeway	Nobles' Causeway
+cazicthule	Accursed Temple of CazicThule
+chambersa	Muramite Proving Grounds
+chambersb	Muramite Proving Grounds
+chambersc	Muramite Proving Grounds
+chambersd	Muramite Proving Grounds
+chamberse	Muramite Proving Grounds
+chambersf	Muramite Proving Grounds
+charasis	The Howling Stones
+chardok	Chardok
+chardokb	Chardok: The Halls of Betrayal
+citymist	The City of Mist
+clz	Loading
+cobaltscar	Cobaltscar
+codecay	The Crypt of Decay
+commonlands	The Commonlands

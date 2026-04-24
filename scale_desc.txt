@@ -1,0 +1,33 @@
+﻿type	int(11)	NO	PRI	0	
+level	int(11)	NO	PRI	NULL	
+zone_id_list	text	NO	PRI	NULL	
+instance_version_list	text	NO	PRI	NULL	
+ac	int(11)	NO		0	
+hp	bigint(20)	NO		0	
+accuracy	int(11)	NO		0	
+slow_mitigation	int(11)	NO		0	
+attack	int(11)	NO		0	
+strength	int(11)	NO		0	
+stamina	int(11)	NO		0	
+dexterity	int(11)	NO		0	
+agility	int(11)	NO		0	
+intelligence	int(11)	NO		0	
+wisdom	int(11)	NO		0	
+charisma	int(11)	NO		0	
+magic_resist	int(11)	NO		0	
+cold_resist	int(11)	NO		0	
+fire_resist	int(11)	NO		0	
+poison_resist	int(11)	NO		0	
+disease_resist	int(11)	NO		0	
+corruption_resist	int(11)	NO		0	
+physical_resist	int(11)	NO		0	
+min_dmg	int(11)	NO		0	
+max_dmg	int(11)	NO		0	
+hp_regen_rate	bigint(20)	NO		0	
+hp_regen_per_second	bigint(20)	NO		0	
+attack_delay	int(11)	NO		0	
+spell_scale	int(11)	NO		100	
+heal_scale	int(11)	NO		100	
+avoidance	int(11) unsigned	NO		0	
+heroic_strikethrough	int(11)	NO		0	
+special_abilities	text	NO		NULL	

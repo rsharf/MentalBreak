@@ -1,0 +1,10 @@
+﻿id	name	price
+9818	Rizlona's Fiery Helm	0
+11178	Rizlona's Fiery Bracer	0
+11444	Rizlona's Fiery Vambraces	0
+12664	Rizlona's Fiery Gauntlets	0
+16771	Rizlona's Fiery Greaves	0
+19549	Rizlona's Fiery Boots	0
+47643	Rizlona's Fiery Chestplate	0
+count(*)
+0

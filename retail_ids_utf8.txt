@@ -1,0 +1,16 @@
+﻿id	name
+12665	Staff of Prismatic Power
+16576	Staff of Phenomenal Power
+18608	Perpetual Pumps
+18609	Vengeful Taelosian Blood Axe
+48136	Innoruuk's Dark Blessing
+57405	Blessed Spiritstaff of the Heyokah
+62581	Soulwhisper
+62601	Blasted Stone
+62649	Aurora, the Heartwood Blade
+63456	Velium Gem-Hafted Long Spear
+64031	Redemption
+64032	Stone of Marking
+64067	Deathwhisper
+67741	Egg Batter
+77640	Blade of Vesagran

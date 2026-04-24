@@ -1,0 +1,4 @@
+﻿MAX(id)
+2000040
+MAX(merchantid)
+1000022

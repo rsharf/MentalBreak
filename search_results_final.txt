@@ -1,0 +1,278 @@
+106408	Baneband of Manaflux
+90671	Banner of the Priests of Innoruuk
+6369	Battle Worn Morning Star
+12539	Black Acrylia Morning Star
+7243	Blade of the Earthcaller
+77640	Blade of Vesagran
+127948	Blade of Vesagran Ornamentation
+57405	Blessed Spiritstaff of the Heyokah
+127961	Blessed Spiritstaff of the Heyokah Ornamentation
+81826	Blessed Water of Innoruuk
+67325	Blood Axe
+1689	Book of Celestial Fists
+39934	Boots of Vesagran
+39932	Bracer of Vesagran
+89476	Brambles Shard of the Ancients
+39935	Breastplate of Vesagran
+39964	Breeches of Phenomenal Power
+39844	Breeches of Prismatic Power
+51684	Broken Staff of Temperate Flux
+17833	Broken Trial Taelosian Blood Axe
+6024	Bronze Morning Star
+61021	Bubbaflex's Vision of Innoruuk
+58016	Buckler of Innoruuk
+1683	Celestial Fists
+10652	Celestial Fists
+36224	Celestial Fists
+127920	Celestial Fists Ornamentation
+106311	Chain of Earthen Flux
+20860	Circlet of Brambles
+8495	Claw of the Savage Spirit
+8496	Claw of the Savage Spirit
+102615	Cloak of Shorn Dragonscales
+87512	Clue: A Symbol of Innoruuk
+20516	Coin Depicting Innoruuk
+6355	Cold Iron Morning Star
+56113	Cold Iron Morning Star
+62929	Cold Iron Morning Star
+30215	Coldain Velium Morning Star
+12525	Combine Acrylia Morning Star
+6311	Combine Morning Star
+69913	Couragebringer
+39958	Cowl of Phenomenal Power
+39838	Cowl of Prismatic Power
+28153	Cracked Ragebringer
+17399	Damaged Trial Taelosian Blood Axe
+17898	Damaged Trial Taelosian Blood Axe
+29412	Dark Steel Morning Star
+51460	Darkshorn Kyv Hood
+11648	DawnFire, Morning Star of Light
+147398	DawnFire, Morning Star of Light
+1370	Disciple Symbol of Innoruuk
+28155	Dispelled Innoruuk's Curse
+28096	Doused Fiery Defender
+25177	Drakkel Steel Morning Star
+7130	Earring of Influxed Gravity
+20488	Earthcaller
+127924	Earthcaller Ornamentation
+40237	Effigy of Innoruuk
+5207	Enchanted Battleworn Morning Star
+5214	Enchanted Fine Steel Morning Star
+20656	Eye of Innoruuk
+54813	Faded Cold Iron Morning Star
+6372	Feir`Dal Morning Star
+10099	Fiery Defender
+127923	Fiery Defender Ornamentation
+6351	Fine Steel Morning Star
+42966	Fireworks Focus of Innoruuk
+5523	Fluxbladed Axe
+11576	Fluxing Chunk of Ore
+11448	Fluxing Gem
+11474	Fluxing Rune
+11445	Fluxing Staff
+29287	Focused Ethereal Morning Star
+71170	Foreboding Shawl of Obscurity
+11890	Forged Deathsteel Morning Star
+7895	Forged Firebrand Morning Star
+5063	Forged Morning Star
+30281	Forged Velium Morning Star
+61083	Fortifying Innoruuk's Realm Vol 1
+61084	Fortifying Innoruuk's Realm Vol 2
+61085	Fortifying Innoruuk's Realm Vol 3
+61086	Fortifying Innoruuk's Realm Vol 4
+61087	Fortifying Innoruuk's Realm Vol 5
+61088	Fortifying Innoruuk's Realm Vol 6
+61089	Fortifying Innoruuk's Realm Vol 7
+61090	Fortifying Innoruuk's Realm Vol 8
+61091	Fortifying Innoruuk's Realm Vol 9
+69911	Fractured Couragebringer
+69912	Fractured Couragebringer
+10092	Fuligan Soulstone of Innoruuk
+39933	Gauntlets of Vesagran
+88593	Gilded Innoruuk Brooch
+106318	Gird of Earthen Flux
+39961	Gloves of Phenomenal Power
+39841	Gloves of Prismatic Power
+9711	Golden Idol of Innoruuk
+30835	Gor Taku Earthcaller's Stone
+20141	Greater Insignia of Innoruuk
+61225	Greaves of Obscurity
+39936	Greaves of Vesagran
+9358	Greennose Scourgers' Morning Star
+39930	Helm of Vesagran
+52922	Heyokah Medicine Bag
+89480	Heyokah Shard of the Ancients
+20046	Idol of Innoruuk
+16396	Image of Innoruuk
+102680	Image of Innoruuk
+21546	Indigo Sabre of Innoruuk
+1369	Initiate Symbol of Innoruuk
+93588	Ink of Innoruuk
+50485	Innoruuk Dagger Ornamentation
+47571	Innoruuk Emulsifier
+77954	Innoruuk Heart
+77955	Innoruuk Heart
+77956	Innoruuk Heart
+77957	Innoruuk Heart
+77958	Innoruuk Heart
+77959	Innoruuk Heart
+77960	Innoruuk Heart
+77961	Innoruuk Heart
+43926	Innoruuk Shower Firework Caster
+77976	Innoruuk's Black Arrow Head Ornament
+77978	Innoruuk's Black Rose Head Ornament
+94616	Innoruuk's Cloak of Hatred
+14383	Innoruuk's Curse
+127927	Innoruuk's Curse Ornamentation
+48136	Innoruuk's Dark Blessing
+127960	Innoruuk's Dark Blessing Ornamentation
+127042	Innoruuk's Dark Curse
+77970	Innoruuk's Gift of Heart
+13121	Innoruuk's Kiss of Death
+60390	Innoruuk's Needle of Hatred
+107930	Innoruuk's Pleasure
+89475	Innoruuk's Shard of the Ancients
+88733	Innoruuk's Spiked Heart Ornament
+22944	Innoruuk's Voice
+50003	Innoruuk's Voice
+127944	Innoruuk's Voice Ornamentation
+10607	Innoruuk's Word
+20061	Insignia of Innoruuk
+10908	Jagged Blade of War
+66175	Jagged Blade of War
+127930	Jagged Blade of War Ornamentation
+62845	Living Brambles Seed
+62850	Living Brambles Seed
+55049	Loc10Writ of Innoruuk
+6384	Mace of the Shadowed Soul
+87060	Mennelle's Worn Morning Star
+20125	Minor Insignia of Innoruuk
+21584	Mithril Feir`Dal Morning Star
+21589	Mithril Feir`Dal Morning Star
+21594	Mithril Feir`Dal Morning Star
+21599	Mithril Feir`Dal Morning Star
+11667	Monsoon, Sword of the Swiftwind
+147400	Monsoon, Sword of the Swiftwind
+84101	Morden's Ragebringer
+6008	Morning Star
+51877	Morning Star
+61020	Nanyea's Vision of Innoruuk
+127587	Narikor Slave Morning Star
+20490	Nature Walkers Scimitar
+127917	Nature Walkers Scimitar Ornamentation
+61023	Nerosiss's Vision of Innoruuk
+6037	Orcish Morning Star
+67322	Ornate Blood Axe
+62410	Phenomenal Spiked Shoulderpads
+5614	Polyphenomenal Axe
+2645	Priest of Innoruuk's Heart
+127914	Primary Claw of the Savage Spirit Ornamentation
+11057	Ragebringer
+127925	Ragebringer Ornamentation
+20300	Refined Sylvan Morning Star
+1371	Regent Symbol of Innoruuk
+39963	Robe of Phenomenal Power
+39843	Robe of Prismatic Power
+6343	Ruined Battleworn Morning Star
+6606	Runed Morning Star
+6016	Rusty Morning Star
+20297	Rusty Sylvan Morning Star
+121352	Savage Spiritblade
+130500	Scroll: Shield of Bramblespikes
+130501	Scroll: Shield of Bramblespikes Rk. II
+20544	Scythe of the Shadowed Soul
+127921	Scythe of the Shadowed Soul Ornamentation
+37832	Seal of Prismatic Power
+84221	Seeker's Spiritstaff
+6101	Shadowed Morning Star
+106757	Shadowed Soulblade
+80399	Shard of Phenomenal Power
+11407	Sheathed Innoruuk's Voice
+22199	Sheathed Innoruuk's Voice
+1741	Shorn Head of Narandi
+51448	Shorn Murkglider Tentacle
+120323	Shorn Tendril of Terror's Minion
+128510	Shorn Ut`len Tentacle
+82434	Skyshorn Aquamarine
+70504	Sleek Swiftwind Cloak
+39959	Sleeves of Phenomenal Power
+39839	Sleeves of Prismatic Power
+39962	Slippers of Phenomenal Power
+39842	Slippers of Prismatic Power
+10651	Spear of Fate
+36223	Spear of Fate
+127926	Spear of Fate Ornamentation
+15350	Spell: Chaos Flux
+118353	Spell: Color Conflux
+118354	Spell: Color Conflux Rk. II
+118355	Spell: Color Conflux Rk. III
+15290	Spell: Color Flux
+16204	Spell: Color Flux
+19298	Spell: Deflux
+19208	Spell: Divine Light
+15313	Spell: Fire Flux
+15189	Spell: Flame Flux
+15073	Spell: Gravity Flux
+16232	Spell: Gravity Flux
+16336	Spell: Gravity Flux
+118564	Spell: Iceflame Efflux
+118565	Spell: Iceflame Efflux Rk. II
+118566	Spell: Iceflame Efflux Rk. III
+19390	Spell: Memory Flux
+119534	Spell: Remote Manaflux
+119535	Spell: Remote Manaflux Rk. II
+119536	Spell: Remote Manaflux Rk. III
+15140	Spell: Savage Spirit
+59592	Spell: Scythe of Innoruuk
+15129	Spell: Shield of Brambles
+26928	Spell: Touch of Innoruuk
+77115	Spell: Verse of Vesagran
+88610	Spiked Innoruuk Gauntlet
+51686	Staff of Elemental Flux
+62880	Staff of Everliving Brambles
+127952	Staff of Everliving Brambles Ornamentation
+11596	Staff of Fluxing Power
+62863	Staff of Living Brambles
+127936	Staff of Living Brambles Ornamentation
+16576	Staff of Phenomenal Power
+127963	Staff of Phenomenal Power Ornamentation
+12665	Staff of Prismatic Power
+127947	Staff of Prismatic Power Ornamentation
+6342	Staff of Temperate Flux
+127554	Staff of Viral Flux
+52167	Suffusive Morning Star
+14848	Superior Combine Morning Star
+20158	Superior Insignia of Innoruuk
+20487	Swiftwind
+128315	Swiftwind Bone Trinket
+71244	Swiftwind Necklace
+117401	Swirling Orb of Obscurity
+18976	Taelosian Alloy Blood Axe
+5228	Tainted Battleworn Morning Star
+28099	Tainted Celestial Fists
+6033	Tarnished Morning Star
+54059	Teachings of Innoruuk
+6367	Teir`Dal Morning Star
+61022	Tharknight's Vision of Innoruuk
+126961	Tome of Blood Axe
+126962	Tome of Blood Axe Rk. II
+113535	Trade-In Gem: Remote Manaflux Rk. II
+16779	Trial Taelosian Alloy Blood Axe
+17370	Trial Taelosian Alloy Blood Axe
+17700	Trial Taelosian Alloy Blood Axe
+17759	Trial Taelosian Alloy Blood Axe
+9696	Unfired Idol of Innoruuk
+20072	Unhoned Vengeful Taelosian Blood Axe
+67778	Unpowered Staff of Phenomenal Power
+39931	Vambraces of Vesagran
+30205	Velium Morning Star
+18609	Vengeful Taelosian Blood Axe
+127950	Vengeful Taelosian Blood Axe Ornamentation
+89478	Vesagran Shard of the Ancients
+11304	Vial of Elemental Binding
+5532	Water Sprinkler of Nem Ankh
+127916	Water Sprinkler of Nem Ankh Ornamentation
+14370	Will of Innoruuk
+39960	Wristcuff of Phenomenal Power
+39840	Wristcuff of Prismatic Power
+5220	Writ of Innoruuk

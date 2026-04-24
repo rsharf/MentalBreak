@@ -1,0 +1,18 @@
+﻿poair	The Plane of Air	2.75
+podisease	The Plane of Disease	1.58
+poeartha	The Plane of Earth	3.00
+poearthb	The Plane of Earth	3.00
+pofire	The Plane of Fire	3.00
+poinnovation	The Plane of Innovation	1.58
+pojustice	The Plane of Justice	1.58
+poknowledge	The Plane of Knowledge	1.00
+ponightmare	The Plane of Nightmares	1.58
+postorms	The Plane of Storms	2.35
+potactics	Drunder, the Fortress of Zek	2.75
+potimea	The Plane of Time	0.40
+potimeb	The Plane of Time	2.75
+potorment	Torment, the Plane of Pain	2.75
+potranquility	The Plane of Tranquility	1.00
+povalor	The Plane of Valor	2.35
+powar	Plane of War	1.00
+powater	The Plane of Water	3.00

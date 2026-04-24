@@ -1,0 +1,11 @@
+﻿id	name	lastname	class
+771	SummonResupplyAgent		41
+773	Summoned Permutation Peddler		41
+1004	Meera_Lylon	Armor	41
+1008	Topala_Xenem	Bard Songs	41
+1009	Oriyame_Nelafre	Paladin Spells	41
+1010	Fesse_Bontex	Paladin Spells	41
+1011	Trisco_Qental	Wizard Spells	41
+1012	Dumisa_D`Enetti	Wizard Spells	41
+1013	Rosdaria_Sepria	Wizard Spells	41
+1014	Sinon_Loarpe	Magician Spells	41

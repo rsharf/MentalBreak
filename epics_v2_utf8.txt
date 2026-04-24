@@ -1,0 +1,14 @@
+﻿id	name
+28155	Dispelled Innoruuk's Curse
+76164	Fabled Greatstaff of the Four Winds
+24780	Greatstaff of the Four Winds
+76811	Greatstaff of the Four Winds Ornament Sketch
+76784	Greatstaff of the Four Winds Ornamentation
+14383	Innoruuk's Curse
+127927	Innoruuk's Curse Ornamentation
+127042	Innoruuk's Dark Curse
+20490	Nature Walkers Scimitar
+127917	Nature Walkers Scimitar Ornamentation
+14341	Staff of the Four
+127931	Staff of the Four Ornamentation
+76838	Unfired Greatstaff of the Four Winds Ornament

@@ -1,0 +1,59 @@
+﻿id	name
+18608	Perpetual Pumps
+18609	Vengeful Taelosian Blood Axe
+18610	Forge of Icewell Arms
+57400	Crafted Talisman of Fates
+57401	Necklace of Perseverance
+57403	Piece of Moaning Timber
+57404	Spiritcaller Beads
+57405	Blessed Spiritstaff of the Heyokah
+57406	All Stats 16
+57409	Benefit: Accuracy 07
+62581	Soulwhisper
+62582	Dream Sapphire
+62583	Nightmare Ruby
+62584	Nightshark
+62585	Etherfish
+62600	Essence of Earth and Wind
+62601	Blasted Stone
+62602	Washed Blasted Stone
+62603	Polished Blasted Stone
+62604	Stone of Winde
+62605	Borrowed Medicine Bag
+63450	Velium-Hafted Long Spear
+63451	Velium Long Spear
+63452	Pale Velium-Bladed Long Spear
+63453	Pale Velium-Hafted Long Spear
+63454	Pale Velium Long Spear
+63455	Velium Gem-Bladed Long Spear
+63456	Velium Gem-Hafted Long Spear
+63457	Velium Gemmed Long Spear
+63458	Shimmering Broad Spear Blade
+63459	Golden Broad Spear Blade
+63460	Pale Gemmed Broad Spear Blade
+64020	Collection Bag
+64021	Sealed Collection Bag
+67740	Trusik Ritual Powder
+67741	Egg Batter
+67742	Transcended Fistwraps of Immortality
+67743	Snowfall Effect
+67744	Holly Effect
+67745	Miller Family Portrait
+68298	Seal of the Nihil High Priest
+68299	Kerasian Axe of Ire
+68301	Barnacle-Studded Bracer
+68302	Gnarled Mesh Bracer
+68303	Cockleshell Girdle
+68304	Sash of the Dark Skies
+68305	Decrepit Taelosian Band
+77635	Faded Scrap of Parchment
+77636	Faded Scrap of Parchment
+77637	Faded Scrap of Parchment
+77638	Faded Scrap of Parchment
+77639	Dragorn Blood
+77640	Blade of Vesagran
+77641	Black Chaos Gauntlets
+77642	Black Chaos Boots
+77643	Black Chaos Breastplate
+77644	Dragorn Essence
+77645	Icy Crystal

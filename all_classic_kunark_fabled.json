@@ -1,0 +1,1025 @@
+[
+    {
+        "fabled": {
+            "id": 2148,
+            "name": "The_Fabled_Fippy_Darkpaw"
+        },
+        "base": [
+            {
+                "id": 2001,
+                "name": "Fippy_Darkpaw",
+                "zone": "qeynos2",
+                "exp": "0"
+            },
+            {
+                "id": 2109,
+                "name": "Fippy_Darkpaw",
+                "zone": "qeynos2",
+                "exp": "0"
+            },
+            {
+                "id": 2119,
+                "name": "Fippy_Darkpaw",
+                "zone": "qeynos2",
+                "exp": "0"
+            }
+        ],
+        "zone": "qeynos2"
+    },
+    {
+        "fabled": {
+            "id": 4199,
+            "name": "#The_Fabled_Pyzjn"
+        },
+        "base": [
+            {
+                "id": 4147,
+                "name": "Pyzjn",
+                "zone": "qeytoqrg",
+                "exp": "0"
+            }
+        ],
+        "zone": "qeytoqrg"
+    },
+    {
+        "fabled": {
+            "id": 5134,
+            "name": "The_Fabled_Grenix_Mucktail"
+        },
+        "base": [
+            {
+                "id": 5133,
+                "name": "Grenix_Mucktail",
+                "zone": "highpass",
+                "exp": "0"
+            }
+        ],
+        "zone": "highpass"
+    },
+    {
+        "fabled": {
+            "id": 12169,
+            "name": "The_Fabled_Chief_Goonda"
+        },
+        "base": [
+            {
+                "id": 12068,
+                "name": "Chief_Goonda",
+                "zone": "qey2hh1",
+                "exp": "0"
+            }
+        ],
+        "zone": "qey2hh1"
+    },
+    {
+        "fabled": {
+            "id": 13118,
+            "name": "The_Fabled_GrimFeather"
+        },
+        "base": [
+            {
+                "id": 13110,
+                "name": "GrimFeather",
+                "zone": "northkarana",
+                "exp": "0"
+            }
+        ],
+        "zone": "northkarana"
+    },
+    {
+        "fabled": {
+            "id": 14167,
+            "name": "#The_Fabled_Coloth_Meadowgreen"
+        },
+        "base": [
+            {
+                "id": 14123,
+                "name": "Coloth_Meadowgreen",
+                "zone": "southkarana",
+                "exp": "0"
+            }
+        ],
+        "zone": "southkarana"
+    },
+    {
+        "fabled": {
+            "id": 14168,
+            "name": "#The_Fabled_Grizzleknot"
+        },
+        "base": [
+            {
+                "id": 14142,
+                "name": "Grizzleknot",
+                "zone": "southkarana",
+                "exp": "0"
+            }
+        ],
+        "zone": "southkarana"
+    },
+    {
+        "fabled": {
+            "id": 16034,
+            "name": "The_Fabled_King_Xorbb"
+        },
+        "base": [
+            {
+                "id": 16033,
+                "name": "King_Xorbb",
+                "zone": "beholder",
+                "exp": "0"
+            }
+        ],
+        "zone": "beholder"
+    },
+    {
+        "fabled": {
+            "id": 31140,
+            "name": "#The_Fabled_Gabbie_Mardoddle"
+        },
+        "base": [
+            {
+                "id": 31132,
+                "name": "Gabbie_Mardoddle",
+                "zone": "soldunga",
+                "exp": "0"
+            }
+        ],
+        "zone": "soldunga"
+    },
+    {
+        "fabled": {
+            "id": 31141,
+            "name": "#The_Fabled_CWG_Model_EXG"
+        },
+        "base": [
+            {
+                "id": 31118,
+                "name": "CWG_Model_EXG",
+                "zone": "soldunga",
+                "exp": "0"
+            }
+        ],
+        "zone": "soldunga"
+    },
+    {
+        "fabled": {
+            "id": 32074,
+            "name": "#The_Fabled_King_Tranix"
+        },
+        "base": [
+            {
+                "id": 32022,
+                "name": "King_Tranix",
+                "zone": "soldungb",
+                "exp": "0"
+            }
+        ],
+        "zone": "soldungb"
+    },
+    {
+        "fabled": {
+            "id": 32076,
+            "name": "#The_Fabled_Efreeti_Lord_Djarn"
+        },
+        "base": [
+            {
+                "id": 32062,
+                "name": "Efreeti_Lord_Djarn",
+                "zone": "soldungb",
+                "exp": "0"
+            }
+        ],
+        "zone": "soldungb"
+    },
+    {
+        "fabled": {
+            "id": 32080,
+            "name": "#The_Fabled_Magus_Rokyl"
+        },
+        "base": [
+            {
+                "id": 32041,
+                "name": "Magus_Rokyl",
+                "zone": "soldungb",
+                "exp": "0"
+            }
+        ],
+        "zone": "soldungb"
+    },
+    {
+        "fabled": {
+            "id": 32082,
+            "name": "#The_Fabled_Warlord_Skarlon"
+        },
+        "base": [
+            {
+                "id": 32020,
+                "name": "Warlord_Skarlon",
+                "zone": "soldungb",
+                "exp": "0"
+            }
+        ],
+        "zone": "soldungb"
+    },
+    {
+        "fabled": {
+            "id": 33157,
+            "name": "The_Fabled_Mooto"
+        },
+        "base": [
+            {
+                "id": 33104,
+                "name": "Mooto",
+                "zone": "misty",
+                "exp": "0"
+            }
+        ],
+        "zone": "misty"
+    },
+    {
+        "fabled": {
+            "id": 34145,
+            "name": "#The_Fabled_Rahotep"
+        },
+        "base": [
+            {
+                "id": 34141,
+                "name": "Rahotep",
+                "zone": "nro",
+                "exp": "0"
+            }
+        ],
+        "zone": "nro"
+    },
+    {
+        "fabled": {
+            "id": 35163,
+            "name": "The_Fabled_Ancient_Cyclops"
+        },
+        "base": [
+            {
+                "id": 35163,
+                "name": "The_Fabled_Ancient_Cyclops",
+                "zone": "sro",
+                "exp": "0"
+            }
+        ],
+        "zone": "sro"
+    },
+    {
+        "fabled": {
+            "id": 36101,
+            "name": "#The_Fabled_Wraps_McGee"
+        },
+        "base": [
+            {
+                "id": 36098,
+                "name": "Wraps_McGee",
+                "zone": "befallen",
+                "exp": "0"
+            }
+        ],
+        "zone": "befallen"
+    },
+    {
+        "fabled": {
+            "id": 37147,
+            "name": "The_Fabled_Lockjaw"
+        },
+        "base": [
+            {
+                "id": 37104,
+                "name": "Lockjaw",
+                "zone": "oasis",
+                "exp": "0"
+            }
+        ],
+        "zone": "oasis"
+    },
+    {
+        "fabled": {
+            "id": 44105,
+            "name": "#The_Fabled_Drelzna"
+        },
+        "base": [
+            {
+                "id": 44094,
+                "name": "Drelzna",
+                "zone": "najena",
+                "exp": "0"
+            }
+        ],
+        "zone": "najena"
+    },
+    {
+        "fabled": {
+            "id": 44106,
+            "name": "#The_Fabled_Najena"
+        },
+        "base": [
+            {
+                "id": 44100,
+                "name": "Najena",
+                "zone": "najena",
+                "exp": "0"
+            }
+        ],
+        "zone": "najena"
+    },
+    {
+        "fabled": {
+            "id": 51170,
+            "name": "#The_Fabled_Webclaw_Murkwave"
+        },
+        "base": [
+            {
+                "id": 51142,
+                "name": "Webclaw_Murkwave",
+                "zone": "lakerathe",
+                "exp": "0"
+            },
+            {
+                "id": 52083,
+                "name": "Webclaw_Murkwave",
+                "zone": "lakerathe",
+                "exp": "0"
+            }
+        ],
+        "zone": "lakerathe"
+    },
+    {
+        "fabled": {
+            "id": 58057,
+            "name": "The_Fabled_Emperor_Crush"
+        },
+        "base": [
+            {
+                "id": 58032,
+                "name": "Emperor_Crush",
+                "zone": "crushbone",
+                "exp": "0"
+            }
+        ],
+        "zone": "crushbone"
+    },
+    {
+        "fabled": {
+            "id": 58058,
+            "name": "The_Fabled_Ambassador_Dvinn"
+        },
+        "base": [
+            {
+                "id": 58058,
+                "name": "The_Fabled_Ambassador_Dvinn",
+                "zone": "crushbone",
+                "exp": "0"
+            }
+        ],
+        "zone": "crushbone"
+    },
+    {
+        "fabled": {
+            "id": 63091,
+            "name": "The_Fabled_Undead_Knight_Of_Unrest"
+        },
+        "base": [
+            {
+                "id": 63091,
+                "name": "The_Fabled_Undead_Knight_Of_Unrest",
+                "zone": "unrest",
+                "exp": "0"
+            }
+        ],
+        "zone": "unrest"
+    },
+    {
+        "fabled": {
+            "id": 63095,
+            "name": "The_Fabled_Undead_Barkeep"
+        },
+        "base": [
+            {
+                "id": 63095,
+                "name": "The_Fabled_Undead_Barkeep",
+                "zone": "unrest",
+                "exp": "0"
+            }
+        ],
+        "zone": "unrest"
+    },
+    {
+        "fabled": {
+            "id": 63096,
+            "name": "The_Fabled_Garanel_Rucksif"
+        },
+        "base": [
+            {
+                "id": 63062,
+                "name": "Garanel_Rucksif",
+                "zone": "unrest",
+                "exp": "0"
+            }
+        ],
+        "zone": "unrest"
+    },
+    {
+        "fabled": {
+            "id": 63110,
+            "name": "The_Fabled_Reclusive_Ghoul_Magus"
+        },
+        "base": [
+            {
+                "id": 63110,
+                "name": "The_Fabled_Reclusive_Ghoul_Magus",
+                "zone": "unrest",
+                "exp": "0"
+            }
+        ],
+        "zone": "unrest"
+    },
+    {
+        "fabled": {
+            "id": 64098,
+            "name": "#The_Fabled_Estrella_of_Gloomwater"
+        },
+        "base": [
+            {
+                "id": 64013,
+                "name": "Estrella_of_Gloomwater",
+                "zone": "kedge",
+                "exp": "0"
+            }
+        ],
+        "zone": "kedge"
+    },
+    {
+        "fabled": {
+            "id": 64099,
+            "name": "#The_Fabled_Undertow"
+        },
+        "base": [
+            {
+                "id": 64087,
+                "name": "Undertow",
+                "zone": "kedge",
+                "exp": "0"
+            }
+        ],
+        "zone": "kedge"
+    },
+    {
+        "fabled": {
+            "id": 66176,
+            "name": "The_Fabled_Ghoul_Assassin"
+        },
+        "base": [
+            {
+                "id": 66176,
+                "name": "The_Fabled_Ghoul_Assassin",
+                "zone": "gukbottom",
+                "exp": "0"
+            }
+        ],
+        "zone": "gukbottom"
+    },
+    {
+        "fabled": {
+            "id": 68246,
+            "name": "The_Fabled_Zarchoomi"
+        },
+        "base": [
+            {
+                "id": 68185,
+                "name": "Zarchoomi",
+                "zone": "butcher",
+                "exp": "0"
+            }
+        ],
+        "zone": "butcher"
+    },
+    {
+        "fabled": {
+            "id": 68249,
+            "name": "The_Fabled_Corflunk"
+        },
+        "base": [
+            {
+                "id": 68146,
+                "name": "Corflunk",
+                "zone": "butcher",
+                "exp": "0"
+            }
+        ],
+        "zone": "butcher"
+    },
+    {
+        "fabled": {
+            "id": 69135,
+            "name": "The_Fabled_Allizewsaur"
+        },
+        "base": [
+            {
+                "id": 69018,
+                "name": "Allizewsaur",
+                "zone": "oot",
+                "exp": "0"
+            }
+        ],
+        "zone": "oot"
+    },
+    {
+        "fabled": {
+            "id": 70053,
+            "name": "The_Fabled_Barnacle_Bones"
+        },
+        "base": [
+            {
+                "id": 70047,
+                "name": "Barnacle_Bones",
+                "zone": "cauldron",
+                "exp": "0"
+            }
+        ],
+        "zone": "cauldron"
+    },
+    {
+        "fabled": {
+            "id": 73112,
+            "name": "#The_Fabled_King_Thex`Ka_IV"
+        },
+        "base": [
+            {
+                "id": 73103,
+                "name": "King_Thex`Ka_IV",
+                "zone": "permafrost",
+                "exp": "0"
+            }
+        ],
+        "zone": "permafrost"
+    },
+    {
+        "fabled": {
+            "id": 79150,
+            "name": "The_Fabled_Iksar_Bandit_Lord"
+        },
+        "base": [
+            {
+                "id": 79116,
+                "name": "Iksar_Bandit_Lord",
+                "zone": "warslikswood",
+                "exp": "1"
+            }
+        ],
+        "zone": "warslikswood"
+    },
+    {
+        "fabled": {
+            "id": 85230,
+            "name": "#The_Fabled_Chancellor_of_Di`zok"
+        },
+        "base": [
+            {
+                "id": 85062,
+                "name": "Chancellor_of_Di`zok",
+                "zone": "lakeofillomen",
+                "exp": "1"
+            }
+        ],
+        "zone": "lakeofillomen"
+    },
+    {
+        "fabled": {
+            "id": 85232,
+            "name": "#The_Fabled_Lord_Gorelik"
+        },
+        "base": [
+            {
+                "id": 85125,
+                "name": "Lord_Gorelik",
+                "zone": "lakeofillomen",
+                "exp": "1"
+            }
+        ],
+        "zone": "lakeofillomen"
+    },
+    {
+        "fabled": {
+            "id": 86170,
+            "name": "#The_Fabled_Gorenaire"
+        },
+        "base": [
+            {
+                "id": 86014,
+                "name": "Gorenaire",
+                "zone": "dreadlands",
+                "exp": "1"
+            }
+        ],
+        "zone": "dreadlands"
+    },
+    {
+        "fabled": {
+            "id": 89190,
+            "name": "#The_Fabled_Baron_Yosig"
+        },
+        "base": [
+            {
+                "id": 89174,
+                "name": "Baron_Yosig",
+                "zone": "sebilis",
+                "exp": "1"
+            }
+        ],
+        "zone": "sebilis"
+    },
+    {
+        "fabled": {
+            "id": 89191,
+            "name": "#The_Fabled_Arch_Duke_Iatol"
+        },
+        "base": [
+            {
+                "id": 89172,
+                "name": "Arch_Duke_Iatol",
+                "zone": "sebilis",
+                "exp": "1"
+            }
+        ],
+        "zone": "sebilis"
+    },
+    {
+        "fabled": {
+            "id": 89192,
+            "name": "#The_Fabled_Tolapumj"
+        },
+        "base": [
+            {
+                "id": 89000,
+                "name": "Tolapumj",
+                "zone": "sebilis",
+                "exp": "1"
+            }
+        ],
+        "zone": "sebilis"
+    },
+    {
+        "fabled": {
+            "id": 89196,
+            "name": "#The_Fabled_Trakanon"
+        },
+        "base": [
+            {
+                "id": 89154,
+                "name": "Trakanon",
+                "zone": "sebilis",
+                "exp": "1"
+            }
+        ],
+        "zone": "sebilis"
+    },
+    {
+        "fabled": {
+            "id": 91190,
+            "name": "The_Fabled_Black_Scar"
+        },
+        "base": [
+            {
+                "id": 91088,
+                "name": "Black_Scar",
+                "zone": "skyfire",
+                "exp": "1"
+            }
+        ],
+        "zone": "skyfire"
+    },
+    {
+        "fabled": {
+            "id": 92189,
+            "name": "#The_Fabled_Stonegrinder"
+        },
+        "base": [
+            {
+                "id": 92172,
+                "name": "Stonegrinder",
+                "zone": "frontiermtns",
+                "exp": "1"
+            }
+        ],
+        "zone": "frontiermtns"
+    },
+    {
+        "fabled": {
+            "id": 92190,
+            "name": "#The_Fabled_Bonedigger"
+        },
+        "base": [
+            {
+                "id": 92153,
+                "name": "Bonedigger",
+                "zone": "frontiermtns",
+                "exp": "1"
+            }
+        ],
+        "zone": "frontiermtns"
+    },
+    {
+        "fabled": {
+            "id": 92191,
+            "name": "#The_Fabled_Soothsayer_Dregzak"
+        },
+        "base": [
+            {
+                "id": 92014,
+                "name": "Soothsayer_Dregzak",
+                "zone": "frontiermtns",
+                "exp": "1"
+            }
+        ],
+        "zone": "frontiermtns"
+    },
+    {
+        "fabled": {
+            "id": 94142,
+            "name": "#The_Fabled_Severilous"
+        },
+        "base": [
+            {
+                "id": 94009,
+                "name": "Severilous",
+                "zone": "emeraldjungle",
+                "exp": "1"
+            }
+        ],
+        "zone": "emeraldjungle"
+    },
+    {
+        "fabled": {
+            "id": 96350,
+            "name": "The_Fabled_Ugrak_da_Raider"
+        },
+        "base": [
+            {
+                "id": 96087,
+                "name": "Ugrak_da_Raider",
+                "zone": "timorous",
+                "exp": "1"
+            }
+        ],
+        "zone": "timorous"
+    },
+    {
+        "fabled": {
+            "id": 97080,
+            "name": "The_Fabled_Bargynn"
+        },
+        "base": [
+            {
+                "id": 97075,
+                "name": "Bargynn",
+                "zone": "kurn",
+                "exp": "1"
+            }
+        ],
+        "zone": "kurn"
+    },
+    {
+        "fabled": {
+            "id": 102127,
+            "name": "#The_Fabled_Drolvarg_Captain"
+        },
+        "base": [
+            {
+                "id": 102127,
+                "name": "#The_Fabled_Drolvarg_Captain",
+                "zone": "karnor",
+                "exp": "1"
+            }
+        ],
+        "zone": "karnor"
+    },
+    {
+        "fabled": {
+            "id": 102129,
+            "name": "#The_Fabled_Hangnail"
+        },
+        "base": [
+            {
+                "id": 102124,
+                "name": "Hangnail",
+                "zone": "karnor",
+                "exp": "1"
+            }
+        ],
+        "zone": "karnor"
+    },
+    {
+        "fabled": {
+            "id": 102130,
+            "name": "#The_Fabled_Skeletal_Berserker"
+        },
+        "base": [
+            {
+                "id": 102130,
+                "name": "#The_Fabled_Skeletal_Berserker",
+                "zone": "karnor",
+                "exp": "1"
+            }
+        ],
+        "zone": "karnor"
+    },
+    {
+        "fabled": {
+            "id": 102134,
+            "name": "The_Fabled_Venril_Sathir"
+        },
+        "base": [
+            {
+                "id": 102112,
+                "name": "#Venril_Sathir",
+                "zone": "karnor",
+                "exp": "1"
+            }
+        ],
+        "zone": "karnor"
+    },
+    {
+        "fabled": {
+            "id": 103218,
+            "name": "#The_Fabled_Prince_Selrach_Di`zok"
+        },
+        "base": [
+            {
+                "id": 103080,
+                "name": "Prince_Selrach_Di`zok",
+                "zone": "chardok",
+                "exp": "1"
+            }
+        ],
+        "zone": "chardok"
+    },
+    {
+        "fabled": {
+            "id": 105282,
+            "name": "#The_Fabled_Crypt_Devourer"
+        },
+        "base": [
+            {
+                "id": 105152,
+                "name": "#The_Crypt_Devourer",
+                "zone": "charasis",
+                "exp": "1"
+            }
+        ],
+        "zone": "charasis"
+    },
+    {
+        "fabled": {
+            "id": 105283,
+            "name": "#The_Fabled_Crypt_Excavator"
+        },
+        "base": [
+            {
+                "id": 105029,
+                "name": "#The_Crypt_Excavator",
+                "zone": "charasis",
+                "exp": "1"
+            }
+        ],
+        "zone": "charasis"
+    },
+    {
+        "fabled": {
+            "id": 105284,
+            "name": "#The_Fabled_Crypt_Feaster"
+        },
+        "base": [
+            {
+                "id": 105116,
+                "name": "#The_Crypt_Feaster",
+                "zone": "charasis",
+                "exp": "1"
+            }
+        ],
+        "zone": "charasis"
+    },
+    {
+        "fabled": {
+            "id": 105285,
+            "name": "#The_Fabled_Crypt_Keeper"
+        },
+        "base": [
+            {
+                "id": 105180,
+                "name": "#The_Crypt_Keeper",
+                "zone": "charasis",
+                "exp": "1"
+            }
+        ],
+        "zone": "charasis"
+    },
+    {
+        "fabled": {
+            "id": 105286,
+            "name": "#The_Fabled_Crypt_Spectre"
+        },
+        "base": [
+            {
+                "id": 105074,
+                "name": "#The_Crypt_Spectre",
+                "zone": "charasis",
+                "exp": "1"
+            }
+        ],
+        "zone": "charasis"
+    },
+    {
+        "fabled": {
+            "id": 105288,
+            "name": "#The_Fabled_Drusella_Sathir"
+        },
+        "base": [
+            {
+                "id": 105153,
+                "name": "Drusella_Sathir",
+                "zone": "charasis",
+                "exp": "1"
+            }
+        ],
+        "zone": "charasis"
+    },
+    {
+        "fabled": {
+            "id": 105289,
+            "name": "#The_Fabled_Mortiferous_Protector"
+        },
+        "base": [
+            {
+                "id": 105157,
+                "name": "#Mortiferous_Protector",
+                "zone": "charasis",
+                "exp": "1"
+            }
+        ],
+        "zone": "charasis"
+    },
+    {
+        "fabled": {
+            "id": 107156,
+            "name": "#The_Fabled_Overseer_Malam"
+        },
+        "base": [
+            {
+                "id": 107146,
+                "name": "#Overseer_Malam",
+                "zone": "nurga",
+                "exp": "1"
+            }
+        ],
+        "zone": "nurga"
+    },
+    {
+        "fabled": {
+            "id": 107157,
+            "name": "#The_Fabled_Blackguard_Thabis"
+        },
+        "base": [
+            {
+                "id": 107159,
+                "name": "#Blackguard_Thabis",
+                "zone": "nurga",
+                "exp": "1"
+            }
+        ],
+        "zone": "nurga"
+    },
+    {
+        "fabled": {
+            "id": 107158,
+            "name": "#The_Fabled_Taskmaster_Huflam"
+        },
+        "base": [
+            {
+                "id": 107153,
+                "name": "#Taskmaster_Huflam",
+                "zone": "nurga",
+                "exp": "1"
+            }
+        ],
+        "zone": "nurga"
+    },
+    {
+        "fabled": {
+            "id": 107160,
+            "name": "#The_Fabled_Overseer_Pruckib"
+        },
+        "base": [
+            {
+                "id": 107084,
+                "name": "#Overseer_Pruckib",
+                "zone": "nurga",
+                "exp": "1"
+            }
+        ],
+        "zone": "nurga"
+    }
+]

@@ -1,0 +1,18 @@
+﻿Field	Type	Null	Key	Default	Extra
+merchantid	int(11)	NO	PRI	0	
+slot	int(11) unsigned	NO	PRI	0	
+item	int(11)	NO	MUL	0	
+faction_required	smallint(6)	NO		-100	
+level_required	tinyint(3) unsigned	NO		0	
+min_status	tinyint(3) unsigned	NO		0	
+max_status	tinyint(3) unsigned	NO		255	
+alt_currency_cost	smallint(5) unsigned	NO		0	
+classes_required	int(11)	NO		65535	
+probability	int(3)	NO		100	
+bucket_name	varchar(100)	NO			
+bucket_value	varchar(100)	NO			
+bucket_comparison	tinyint(3) unsigned	YES		0	
+min_expansion	tinyint(4)	NO		-1	
+max_expansion	tinyint(4)	NO		-1	
+content_flags	varchar(100)	YES		NULL	
+content_flags_disabled	varchar(100)	YES		NULL	

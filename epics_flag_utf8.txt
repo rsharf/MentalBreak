@@ -1,0 +1,69 @@
+﻿id	name
+5532	Water Sprinkler of Nem Ankh
+8495	Claw of the Savage Spirit
+8496	Claw of the Savage Spirit
+9955	Harmony of the Soul
+10099	Fiery Defender
+10650	Staff of the Serpent
+10651	Spear of Fate
+10652	Celestial Fists
+11057	Ragebringer
+12665	Staff of Prismatic Power
+14341	Staff of the Four
+14383	Innoruuk's Curse
+16576	Staff of Phenomenal Power
+18398	Raging Taelosian Alloy Axe
+18609	Vengeful Taelosian Blood Axe
+19092	Staff of Elemental Essence
+19839	Focus of Primal Elements
+20076	Aegis of Superior Divinity
+20487	Swiftwind
+20488	Earthcaller
+20490	Nature Walkers Scimitar
+20542	Singing Short Sword
+20544	Scythe of the Shadowed Soul
+28034	Orb of Mastery
+48136	Innoruuk's Dark Blessing
+48147	Nightbane, Sword of the Valiant
+50003	Innoruuk's Voice
+52347	Fatestealer
+52348	Nightshade, Blade of Entropy
+52911	Savage Lord's Totem
+52952	Oculus of Persuasion
+52962	Staff of Eternal Eloquence
+57054	Spiritcaller Totem of the Feral
+57400	Crafted Talisman of Fates
+57405	Blessed Spiritstaff of the Heyokah
+60321	Champion's Sword of Eternal Power
+60332	Kreljnok's Sword of Eternal Power
+61025	Fistwraps of Celestial Discipline
+62581	Soulwhisper
+62627	Heartwood Blade
+62649	Aurora, the Heartwood Blade
+62863	Staff of Living Brambles
+62880	Staff of Everliving Brambles
+64031	Redemption
+64067	Deathwhisper
+66175	Jagged Blade of War
+66176	Blade of Tactics
+66177	Blade of Strategy
+67742	Transcended Fistwraps of Immortality
+68299	Kerasian Axe of Ire
+77631	Prismatic Dragon Blade
+77640	Blade of Vesagran
+89471	Kreljnok's Shard of the Ancients
+89472	Divinity Shard of the Ancients
+89473	Nightbane Shard of the Ancients
+89474	Aurora Shard of the Ancients
+89475	Innoruuk's Shard of the Ancients
+89476	Brambles Shard of the Ancients
+89477	Transcended Shard of the Ancients
+89478	Vesagran Shard of the Ancients
+89479	Nightshade Shard of the Ancients
+89480	Heyokah Shard of the Ancients
+89481	Deathwhisper Shard of the Ancients
+89482	Power Shard of the Ancients
+89483	Primal Shard of the Ancients
+89484	Eternal Shard of the Ancients
+89485	Spiritcaller Shard of the Ancients
+89486	Vengeful Shard of the Ancients

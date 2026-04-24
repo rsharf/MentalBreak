@@ -1,0 +1,211 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Project Overview
+
+MentalBreak is a custom EverQuest server built on EQEmu (EverQuest Emulator) with a **3-class multiclassing system**. Players can combine up to 3 classes, accessing spellbooks, abilities, and skills from all joined classes.
+
+## Repository Layout
+
+| Directory | Purpose |
+|-----------|---------|
+| `peqsourcecode-main/` | EQEmu C++20 server source (zone, world, login, common libs) |
+| `eq-classless-dll-main/` | Client-side DLL injection (DirectInput hooks, UI modifications) |
+| `eqemu server/eqemu/quests/` | Perl/Lua quest scripts (200+ zone directories) |
+| `eqemu server/eqemu/` | Server runtime (maps, configs, logs, binaries) |
+| `everquest_rof2/` | EverQuest RoF2 client data files |
+
+## Build Commands
+
+**Windows (PowerShell) — primary platform:**
+```powershell
+cd peqsourcecode-main
+mkdir build; cd build
+cmake -G "Visual Studio 16 2019" -A x64 .. -DEQEMU_BUILD_SERVER=ON -DTLS_LIBRARY_SELECTION=OpenSSL
+cmake --build . --config RelWithDebInfo --target zone   # or --target world
+```
+
+Batch shortcuts exist: `build_zone.bat`, `build_zone_msbuild.bat`, `build_zone_vs2026.bat`.
+
+**Key CMake flags:** `EQEMU_BUILD_SERVER`, `EQEMU_BUILD_LOGIN`, `EQEMU_BUILD_TESTS`, `EQEMU_BUILD_LUA`, `EQEMU_BUILD_PERL`, `EQEMU_PREFER_LUA`, `TLS_LIBRARY_SELECTION` (OpenSSL|mbedTLS).
+
+## Database
+
+- **Engine:** MariaDB 10.11+ (path: `C:\Program Files\MariaDB 10.11\bin\mysql.exe`)
+- **Database name:** `peq` (root/1 on 127.0.0.1:3306)
+- **Rebuild pipeline:** `rebuild_db.ps1` → `source_db.ps1` → `run_sql.ps1`
+- `insert_multiclass_master.sql` creates the Multiclass Master NPC (ID 202999) in Plane of Knowledge (PoK)
+
+## Architecture — Multiclass System
+
+The multiclass feature spans multiple layers:
+
+1. **C++ server (common/):** `thj_multiclass.h/cpp` — bitmask management per character ID. `eq_packet_structs.h` defines `thj_class_mask`.
+2. **C++ server (zone/):** `op_multiclass_info.h` — packet structures (McClass, McAA, McSpell, McSkill, McDisc, McAbility). `multiclass_info_builder.cpp` — serializes multiclass data for clients. `client.h` — `m_multiclass_secondaries` vector holds non-primary classes.
+3. **Quest scripts:** Perl scripts under `eqemu server/eqemu/quests/` handle class granting via NPC interaction. Global scripts in `quests/global/` handle cross-zone multiclass logic.
+4. **Client DLL:** `eq-classless-dll-main/eqgame_dll/` hooks DirectInput and modifies UI for multiclass display.
+
+## Key Source Paths
+
+- **Class definitions:** `peqsourcecode-main/common/classes.h` (16 playable classes)
+- **Spell logic:** `peqsourcecode-main/zone/spells.cpp`, `spell_effects.cpp`
+- **Memorize validation:** `peqsourcecode-main/zone/client_process.cpp` — `OPMemorizeSpell()` validates class/level before allowing memorization
+- **Cheat detection:** `peqsourcecode-main/zone/cheat_manager.cpp` — `CheckMemTimer()` detects rapid memorization
+- **Spell scribe/mem:** `peqsourcecode-main/zone/spells.cpp` — `ScribeSpell()`, `MemSpell()`, `MemorizeSpell()` (packet sender)
+- **Multiclass info packet:** `peqsourcecode-main/zone/multiclass_info_builder.cpp` — sends class mask (opcode 0x7F01) to DLL
+- **Lua bindings:** `peqsourcecode-main/zone/lua_spell.cpp`, `lua_general.cpp`
+- **Opcodes:** `peqsourcecode-main/common/emu_opcodes.h`
+- **Database layer:** `peqsourcecode-main/common/database.cpp/h`
+- **Logging:** Search `LogSpells`, `Log*` in `zone/`; crash handling in `common/crash.cpp`
+
+## Coding Conventions
+
+- **Naming:** Use full term followed by abbreviation in parentheses, e.g., "Dorsal Spinocerebellar Tract (DSCT)"
+- **Quest objects:** Follow EQEmu conventions (`$client`, `$npc`, `$corpse`, etc.)
+- **C++ style:** C++20 with MSVC compatibility (`/bigobj`, `/MP`, `NOMINMAX`)
+- **Changes:** Prefer small, testable edits. Packet/ABI changes require updating both `common/` headers and `client_files/` import tools.
+
+## Custom Features
+
+- **`#reload` command:** Custom quest command for reloading quest logic at runtime
+- **Multiclass spellbooks:** Characters must access spellbooks of all joined classes
+- **Multiclass Master NPC:** Quest-driven class granting system in PoK
+
+## Build Workflow
+
+**Preferred build command (bash, no vcvars needed):**
+```bash
+cd "D:\app ideas\MentalBreak\peqsourcecode-main\build"
+cmake --build . --config Release --target zone
+cp "D:\app ideas\MentalBreak\peqsourcecode-main\build\bin\Release\zone.exe" "D:\app ideas\MentalBreak\eqemu server\eqemu\zone.exe"
+```
+Build directory already configured with VS 2026 (`Visual Studio 18 2026`, x64). Do NOT regenerate cmake unless needed.
+
+## DLL Architecture (eq-classless-dll-main/eqgame_dll/)
+
+The client DLL is based on MQ2 (MacroQuest2) and uses Detours for function hooking.
+
+**Key files:**
+- `eqgame.h` — Address definitions for all hooked client functions
+- `eqgame.cpp` — Packet handler (`HandleWorldMessage_Detour`), handles custom opcodes (0x1337=DPS, 0x1338=Stats, 0x1339=Banker, 0x7F01=Multiclass mask)
+- `MQ2Labels.cpp` — Multiclass hooks: character stats, spell level, memorization, UI labels
+- `MQ2DetourAPI.cpp` — Detour infrastructure, memory check hooks
+- `MQ2Main.cpp` — Init/shutdown of all subsystems
+- `Hooks.cpp` — D3D9 BeginScene/EndScene hooks
+
+**Critical DLL hooks (in MQ2Labels.cpp `EQCharacter1Hook` class):**
+- `GetSpellLevelNeeded_Detour` @ `EQ_Spell__GetSpellLevelNeeded` (0x4AF700) — Returns correct spell level for multiclass by checking all classes in `g_multiclass_mask`
+- `CanStartMem_Detour` @ `CSpellBookWnd__CanStartMemming` (0x75BD40) — Always returns 1 (allows memorizing any spell)
+- `IsSpellcaster_Detour` — Always returns 1
+- `GetUsableClass_Detour` — Returns -1 (classless)
+- HP/Mana/Endurance detours read from `statEntries` map populated by server packets
+
+**DLL global state:**
+- `statEntries` map — populated via opcode 0x1338 (`EdgeStat_Struct`)
+- `g_multiclass_mask` — populated via opcode 0x7F01 (class bitmask from server)
+
+**Known CSpellBookWnd addresses:**
+- `CanStartMemming` = 0x75BD40, `MemorizeSet` = 0x75CAC0, `pinstCSpellBookWnd` = 0xD1FC88
+- MISSING addresses (need IDA/Ghidra): `GetSpellMemTicksLeft`, `FinishMemorizing`, `StartSpellMemorization` — needed for 0.1s memorization speed
+
+## Multiclass Spell Flow
+
+**Scribing (on class selection):** Multiclass_Master.pl → queries `spells_new` DB → `$client->ScribeSpell()`
+**Scribing (on level up):** global_player.lua `event_level_up` → reads globals `class2`/`class3` → `scribe_multiclass_spells()`
+**Memorization validation:** Client sends OP_MemorizeSpell → server `OPMemorizeSpell()` checks primary + secondary classes via `GetSecondaryClasses()`
+**Level display:** DLL `GetSpellLevelNeeded_Detour` checks `g_multiclass_mask` → returns lowest valid level across all player classes
+
+## Perl API Gotchas
+
+- `$client->Save(0)` — requires uint8 `commit_now` argument, crashes without it
+- `$client->GetFreeSpellBookSlot()` — Perl name (Lua is `GetNextAvailableSpellBookSlot`)
+- `plugin::Whisper()` — unreliable, use `quest::say()` instead for NPC dialogue
+- `$client->HydrateMulticlassFromDB()` — refresh runtime multiclass state after DB changes
+
+## Outcome Learning Model
+
+This project uses a **Predict → Act → Verify → Update** cycle to reduce errors across sessions. Detailed patterns live in `.claude/rules/` (loaded automatically when editing matching files). This section is the high-level framework.
+
+### Risk Domains (from 12 sessions, 151 changes, 15+ distinct failure modes)
+
+| Domain | Description | Highest-Risk Trigger | Observed Failure Rate | Mitigation Confidence |
+|--------|-------------|---------------------|----------------------|----------------------|
+| Type Casting | C++ downcast safety (`CastToPet`, `PALTADVMGR`) | `IsPet()` → `CastToPet()` without charm check | ~100% crash on charmed NPC combat | High (1/1 sessions confirmed fix) |
+| Struct Layout | Binary layout sensitivity (`Buffs_Struct`, `Mob` size) | Adding fields to `Buffs_Struct` or growing `sizeof(Mob)` | ~70-95% silent corruption or crash | Medium (1/1 each, external map untested) |
+| Wire Protocol | DLL ↔ Server packet alignment | Missing `#pragma pack(push,1)` on wire structs | ~90% silent data rejection | High (2/2 confirmed after fix) |
+| RoF2 Client | Hard limits in client binary | Profile ENCODE exceeding gem/refresh counts | ~100% field corruption | High (1/1, hard limit documented) |
+| Packet Timing | DLL state cleared during connect | Custom packets sent before `ClientReady` | ~100% data lost | High (1/1 confirmed) |
+| Perl API | Silent crashes from wrong call patterns | `Save()` without argument, `LoadMysql()` die | ~60-100% silent handler death | High (5/5 sessions using validated patterns) |
+| Client Display | RoF2 rendering limitations | Saylinks, bracket syntax, spell "255" level | ~100% broken display | High (3/3 classes patched successfully) |
+
+### How the Model Works
+
+**Before each task:**
+1. Identify which risk domains the task touches (use the table above)
+2. Open `.claude/rules/cpp-multiclass.md` or `.claude/rules/perl-quests.md` for the specific patterns
+3. Run the Pre-Edit Checklist or Pre-Script Checklist before writing code
+4. Predict: "Based on patterns X and Y, the highest-risk failure mode is Z with ~N% probability"
+
+**During implementation:**
+5. Apply mitigations from the matching patterns
+6. For C++ struct changes, use phased approach (change → build → test → next change)
+7. For new classes, follow the 10-step implementation checklist in `perl-quests.md`
+
+**After each task:**
+8. Run the verification step for each applied pattern (documented per-pattern in rules files)
+9. Score the session outcome:
+   - **Crashes before fix:** Count of zone crashes during testing
+   - **Build iterations:** How many compile-deploy cycles before stable
+   - **New patterns discovered:** Failure modes not predicted by existing patterns
+   - **Patterns correctly applied:** Known risks that were avoided by following the model
+
+10. Update the rules files:
+    - Confirmed patterns: increment confidence (e.g., 1/1 → 2/2)
+    - New failures: add new pattern entry with initial confidence 0/1
+    - Probability corrections: adjust if observed rate differs from predicted
+
+### Session Scorecard Template
+
+After completing a task, fill in this scorecard to track improvement:
+
+```
+SESSION: [number]  DATE: [date]  TASK: [description]
+
+PREDICTIONS MADE:
+  - Pattern [name]: predicted [outcome] at [N%] → ACTUAL: [pass/fail]
+  - Pattern [name]: predicted [outcome] at [N%] → ACTUAL: [pass/fail]
+
+OUTCOMES:
+  Crashes before fix:     [N]  (target: 0)
+  Build iterations:       [N]  (target: 1)
+  New patterns found:     [N]  (target: 0)
+  Patterns applied:       [N]/[total applicable]
+  Predictable errors:     [N]/[total errors]  (target: 100%)
+
+RULES UPDATED:
+  - [pattern name]: confidence [old] → [new]
+  - NEW: [pattern name] added from this session
+
+IMPROVEMENT TREND:
+  Previous session score: [X]  This session: [Y]  Delta: [+/-]
+```
+
+### Goal: Convergent Improvement
+
+The model succeeds when:
+- Each new class implementation has **fewer crashes** than the previous one
+- The ratio of **predictable errors to total errors** approaches 100%
+- **Build iterations per feature** trends toward 1
+- **New pattern discoveries** trend toward 0 (the model captures all recurring failure modes)
+
+The model fails when the same error category occurs in consecutive sessions — this means either the pattern wasn't followed (process gap) or the pattern's mitigation is incomplete (knowledge gap). Both are addressable: process gaps by better checklist discipline, knowledge gaps by updating the pattern.
+
+### Skills & Rules Reference
+
+| Resource | Location | Loaded When |
+|----------|----------|-------------|
+| C++ patterns | `.claude/rules/cpp-multiclass.md` | Editing any `.cpp` or `.h` in `peqsourcecode-main/` |
+| Quest patterns | `.claude/rules/perl-quests.md` | Editing any `.pl` or `.lua` in `quests/` |
+| Build & deploy | `/eqemu-build` skill | User invokes `/eqemu-build` or `/eqemu-build debug` |
+| Restore points | `D:\app ideas\MentalBreak\restore_points\` | Manual reference for rollback |

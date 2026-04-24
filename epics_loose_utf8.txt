@@ -1,0 +1,458 @@
+﻿id	name
+67671	Adventurer's Stone of Blessing
+69425	Aged Razor Fang of Xygoz
+101809	Alkaa's Choker of Blessings
+29440	Ancient Prismatic Axe
+29438	Ancient Prismatic Battlehammer
+29433	Ancient Prismatic Bow
+29437	Ancient Prismatic Brawl Stick
+127137	Ancient Prismatic Brawl Stick Ornament Sketch
+127121	Ancient Prismatic Brawl Stick Ornamentation
+29436	Ancient Prismatic Claymore
+29441	Ancient Prismatic Fist Wraps
+29434	Ancient Prismatic Lance
+29444	Ancient Prismatic Mace
+29435	Ancient Prismatic Spear
+29442	Ancient Prismatic Staff
+29443	Ancient Prismatic Stiletto
+29439	Ancient Prismatic Warsword
+146641	Ashenrazor
+89474	Aurora Shard of the Ancients
+62649	Aurora, the Heartwood Blade
+127958	Aurora, the Heartwood Blade Ornamentation
+79660	Auroral Crest of the Silverwing
+20677	Ball of Everliving Golem
+146447	Ball of Everliving Golem
+26991	Band of Prismatic Focus
+102640	Bauble of Prismatic Flame
+108949	Beguiler's Prismatic Robe Ornament
+57405	Blessed Spiritstaff of the Heyokah
+127961	Blessed Spiritstaff of the Heyokah Ornamentation
+79896	Blessing of Agnarr
+70999	Blessing of Anashti Sul
+121308	Blessing of Might
+80640	Blessing of Shifting Smoke
+39264	Blessing of Solusek Ro
+11661	Bone Razor
+147393	Bone Razor
+99169	Bound Tenets of the Blessing
+62247	Bracelet of Rhythmic Blessings
+39964	Breeches of Phenomenal Power
+39844	Breeches of Prismatic Power
+43941	Brell's Personal Blessing
+51113	Chunk of Prismatic Metal
+102615	Cloak of Shorn Dragonscales
+39958	Cowl of Phenomenal Power
+39838	Cowl of Prismatic Power
+51460	Darkshorn Kyv Hood
+111658	Dried Chips of Everliving Clay
+11956	Ebon Razor
+102768	Eldritch Ring of Prismatic Refraction
+102769	Eldritch Ring of Prismatic Refraction
+102770	Eldritch Ring of Prismatic Refraction
+39917	Everliving Bramble Arms
+39920	Everliving Bramble Boots
+39916	Everliving Bramble Cap
+39919	Everliving Bramble Gloves
+39922	Everliving Bramble Leggings
+39921	Everliving Bramble Tunic
+39918	Everliving Bramble Wristcuff
+46047	Fabled Ancient Prismatic Brawl Stick
+46046	Fabled Ancient Prismatic Warsword
+76248	Fabled Band of Prismatic Focus
+34120	Fabled Helm of Grim Blessings
+62048	Fiery Earring of Blessings
+102595	Fingerloop of Prismatic Rage
+102665	Flashing Prismatic Knucklewraps
+71170	Foreboding Shawl of Obscurity
+81552	Fourazor Ornament
+129663	Glorious Infused Razor-Edged Ulak
+129680	Glorious Uninfused Razor-Edged Ulak
+39961	Gloves of Phenomenal Power
+39841	Gloves of Prismatic Power
+52679	Glowing Prismatic Rune
+82351	Greater Razor-Finned Ring
+102658	Greatmaul of the Prismatic Flight
+61225	Greaves of Obscurity
+62622	Grinbik's Blessing
+64101	Head of Razorfang
+26534	Helm of Grim Blessings
+1720	Helssen's Prismatic Trinket
+102720	Heor`Otor the Prismatic Calamity
+90867	Heroic Prismatic Gemstone
+52922	Heyokah Medicine Bag
+89480	Heyokah Shard of the Ancients
+67909	Idol of the Prismatic
+147230	Incense of the Everliving
+48136	Innoruuk's Dark Blessing
+127960	Innoruuk's Dark Blessing Ornamentation
+83320	Inset Razortooth Coral
+18033	Inte's First Blessing
+18034	Inte's Second Blessing
+22821	Kelorek`Dar Spine Razor
+97547	Kentash's Razor
+89890	Mana-Edged Razor
+5906	Mark of Blessings
+55036	Marr's Blessing
+40992	Mountain Honey Wheat Crunch Razorfin
+102659	Mounted Prismatic Focus-Gem
+62410	Phenomenal Spiked Shoulderpads
+5614	Polyphenomenal Axe
+102225	Prismatic Arch-Elementalist's Gloves
+102227	Prismatic Arch-Elementalist's Hat
+102229	Prismatic Arch-Elementalist's Pantaloons
+102230	Prismatic Arch-Elementalist's Robe
+102228	Prismatic Arch-Elementalist's Sleeves
+102226	Prismatic Arch-Elementalist's Slippers
+102224	Prismatic Arch-Elementalist's Wristband
+102186	Prismatic Armwraps of the Ninth Circle
+62412	Prismatic Bauble of Endless Jests
+16153	Prismatic Belt of the Queztocatal
+102198	Prismatic Blackguard's Boots
+102202	Prismatic Blackguard's Coat
+102199	Prismatic Blackguard's Coif
+102197	Prismatic Blackguard's Gauntlets
+102201	Prismatic Blackguard's Leggings
+102200	Prismatic Blackguard's Sleeves
+102196	Prismatic Blackguard's Wristguard
+3596	Prismatic Blade of Turning
+102184	Prismatic Boots of the Ninth Circle
+102163	Prismatic Bow-Captain's Boots
+102167	Prismatic Bow-Captain's Coat
+102164	Prismatic Bow-Captain's Coif
+102162	Prismatic Bow-Captain's Gauntlets
+102166	Prismatic Bow-Captain's Leggings
+102165	Prismatic Bow-Captain's Sleeves
+102161	Prismatic Bow-Captain's Wristguard
+100121	Prismatic Buckler Ornamentation
+102185	Prismatic Cowl of the Ninth Circle
+12599	Prismatic Crystal
+12625	Prismatic Crystal
+12628	Prismatic Crystal
+12662	Prismatic Crystal
+36620	Prismatic Crystal Charm
+39318	Prismatic Crystal Fragment
+42022	Prismatic Crystal of Intellect
+102211	Prismatic Deathwalker's Gloves
+102213	Prismatic Deathwalker's Hat
+102215	Prismatic Deathwalker's Pantaloons
+102216	Prismatic Deathwalker's Robe
+102214	Prismatic Deathwalker's Sleeves
+102212	Prismatic Deathwalker's Slippers
+102210	Prismatic Deathwalker's Wristband
+102298	Prismatic Deathwalker's Wristband
+102142	Prismatic Decimator's Boots
+102140	Prismatic Decimator's Bracer
+102146	Prismatic Decimator's Breastplate
+102141	Prismatic Decimator's Gauntlets
+102145	Prismatic Decimator's Greaves
+102143	Prismatic Decimator's Helm
+102144	Prismatic Decimator's Vambraces
+77631	Prismatic Dragon Blade
+127932	Prismatic Dragon Blade Ornamentation
+27329	Prismatic Dragon Scale
+36422	Prismatic Drake Scale
+36421	Prismatic Dust
+65472	Prismatic Dye
+102247	Prismatic Enrager's Boots
+102251	Prismatic Enrager's Coat
+102248	Prismatic Enrager's Coif
+102246	Prismatic Enrager's Gauntlets
+102250	Prismatic Enrager's Leggings
+102249	Prismatic Enrager's Sleeves
+102245	Prismatic Enrager's Wristguard
+100012	Prismatic Essence
+101376	Prismatic Essence
+37445	Prismatic Faycite
+26717	Prismatic Feather
+6889	Prismatic Feeler
+103061	Prismatic Fluorescent Mutation Nexus
+102156	Prismatic Gallant-Lord's Boots
+102154	Prismatic Gallant-Lord's Bracer
+102160	Prismatic Gallant-Lord's Breastplate
+102155	Prismatic Gallant-Lord's Gauntlets
+102159	Prismatic Gallant-Lord's Greaves
+102157	Prismatic Gallant-Lord's Helm
+102158	Prismatic Gallant-Lord's Vambraces
+101377	Prismatic Gemstone
+102218	Prismatic Gloves of the Burning Wind
+102183	Prismatic Gloves of the Ninth Circle
+101849	Prismatic Glyph of Loyalty
+101827	Prismatic Glyph of Wisdom
+102663	Prismatic Greatspear of Bloodshed
+102179	Prismatic Growth-Walker's Armwraps
+102177	Prismatic Growth-Walker's Boots
+102178	Prismatic Growth-Walker's Cowl
+102176	Prismatic Growth-Walker's Gloves
+102180	Prismatic Growth-Walker's Leggings
+102181	Prismatic Growth-Walker's Tunic
+102175	Prismatic Growth-Walker's Wristguard
+102220	Prismatic Hat of the Burning Wind
+102205	Prismatic High Seer's Boots
+102209	Prismatic High Seer's Coat
+102206	Prismatic High Seer's Coif
+102204	Prismatic High Seer's Gauntlets
+102208	Prismatic High Seer's Leggings
+102207	Prismatic High Seer's Sleeves
+102203	Prismatic High Seer's Wristguard
+102297	Prismatic High Seer's Wristguard
+120765	Prismatic Hukus Ring
+103060	Prismatic Incandescent Mutation Nexus
+62265	Prismatic Jeweled Stud
+102187	Prismatic Leggings of the Ninth Circle
+103059	Prismatic Luminescent Mutation Nexus
+62142	Prismatic Necklace of Peace
+70673	Prismatic Orchid Amethyst
+45892	Prismatic Palladium Bar
+102222	Prismatic Pantaloons of the Burning Wind
+63851	Prismatic Permafrost Crystal
+93596	Prismatic Pigment
+26989	Prismatic Ring of Resistance
+102223	Prismatic Robe of the Burning Wind
+36419	Prismatic Rock
+36420	Prismatic Roots
+102643	Prismatic Rune of the Fallen
+102242	Prismatic Savage-Caller's Armwraps
+102240	Prismatic Savage-Caller's Boots
+102241	Prismatic Savage-Caller's Cowl
+102239	Prismatic Savage-Caller's Gloves
+102243	Prismatic Savage-Caller's Leggings
+102244	Prismatic Savage-Caller's Tunic
+102238	Prismatic Savage-Caller's Wristguard
+102299	Prismatic Savage-Caller's Wristguard
+39814	Prismatic Scaled Boots
+39812	Prismatic Scaled Bracer
+39815	Prismatic Scaled Breastplate
+39813	Prismatic Scaled Gauntlets
+39816	Prismatic Scaled Greaves
+39810	Prismatic Scaled Helm
+39811	Prismatic Scaled Vambraces
+64187	Prismatic Selyrah Saddle
+101375	Prismatic Shard
+9405	Prismatic Shield
+100120	Prismatic Shield Ornamentation
+69372	Prismatic Shoulderpads
+102191	Prismatic Skaldsong Boots
+102189	Prismatic Skaldsong Bracer
+102195	Prismatic Skaldsong Breastplate
+102190	Prismatic Skaldsong Gauntlets
+102194	Prismatic Skaldsong Greaves
+102192	Prismatic Skaldsong Helm
+102193	Prismatic Skaldsong Vambraces
+102221	Prismatic Sleeves of the Burning Wind
+102219	Prismatic Slippers of the Burning Wind
+102170	Prismatic Soulslayer's Boots
+102168	Prismatic Soulslayer's Bracer
+102296	Prismatic Soulslayer's Bracer
+102174	Prismatic Soulslayer's Breastplate
+102169	Prismatic Soulslayer's Gauntlets
+102173	Prismatic Soulslayer's Greaves
+102171	Prismatic Soulslayer's Helm
+102172	Prismatic Soulslayer's Vambraces
+76048	Prismatic Soulstone
+102232	Prismatic Spellbinder's Gloves
+102234	Prismatic Spellbinder's Hat
+102236	Prismatic Spellbinder's Pantaloons
+102237	Prismatic Spellbinder's Robe
+102235	Prismatic Spellbinder's Sleeves
+102233	Prismatic Spellbinder's Slippers
+102231	Prismatic Spellbinder's Wristband
+20990	Prismatic Sphere
+101374	Prismatic Stone
+70187	Prismatic Stone of Guarding
+102188	Prismatic Tunic of the Ninth Circle
+102149	Prismatic War-Bishop's Boots
+102147	Prismatic War-Bishop's Bracer
+102153	Prismatic War-Bishop's Breastplate
+102148	Prismatic War-Bishop's Gauntlets
+102152	Prismatic War-Bishop's Greaves
+102150	Prismatic War-Bishop's Helm
+102151	Prismatic War-Bishop's Vambraces
+24871	Prismatic Wing
+102217	Prismatic Wristband of the Burning Wind
+102182	Prismatic Wristguard of the Ninth Circle
+110353	Prize: Razors Edge
+71045	Purify Blessing Potion
+40993	Ranthock Honey Wheat Crunch Razorfin
+24649	Razor Fang of Xygoz
+32509	Razor fungus claws
+32508	Razor fungus flesh
+32510	Razor Fungus Spores
+21958	Razor Mandible
+111522	Razor of the Underfoot
+22958	Razor Shafted Key
+50809	Razor Sharp Beetle Horn
+86341	Razor Sharp Corathus Spear
+46407	Razor Sharp Griffon Quill
+88605	Razor Sharp Rat Whisker
+24633	Razor Sharp Short Sword
+26638	Razor Sharp Spider Fang
+6348	Razor Tooth
+65551	Razor-edged Claw
+65557	Razor-edged Shan'Tok
+71101	Razor-Edged Shield of War
+82276	Razor-Finned Ring
+61358	Razor-Sharp Canine Fang
+89260	Razor-Sharp Dagger of Slaying
+92809	Razor-Sharp Drake Claw
+88143	Razor-sharp Obsidian Blade
+55955	Razor-Sharp Raven Claw
+102578	Razor-Sharp Speedblade
+97285	Razorback Venom Sac
+106609	Razorblade of Scale
+54346	Razored Discordling Claw
+89811	Razorfiend Mask
+29949	Razorfiend Tail
+29948	Razorfiend Talon
+29950	Razorfiend Tongue
+89788	Razorfiend's Dark Coif
+89792	Razorfiend's Dark Cuirass
+25598	Razorfiend's Heart
+40090	Razorfin Earring
+37918	Razorgill
+53649	Razorglass Keepsake
+109742	Razorjaw Fang
+117310	Razornails
+47717	Razors Edge
+27912	Razorsharp Piranha Fin
+89200	Razorsharp Shortsword
+135456	Regal Infused Razor-Tipped Whip
+135579	Regal Uninfused Razor-Tipped Whip
+39963	Robe of Phenomenal Power
+39843	Robe of Prismatic Power
+143400	Scroll: Aurora of Dayspring
+143401	Scroll: Aurora of Dayspring Rk. II
+143402	Scroll: Aurora of Dayspring Rk. III
+130434	Scroll: Aurora of Splendor
+130435	Scroll: Aurora of Splendor Rk. II
+130436	Scroll: Aurora of Splendor Rk. III
+136440	Scroll: Aurora of Sunrise
+136441	Scroll: Aurora of Sunrise Rk. II
+136442	Scroll: Aurora of Sunrise Rk. III
+131898	Scroll: Beam of Razors
+131899	Scroll: Beam of Razors Rk. II
+131900	Scroll: Beam of Razors Rk. III
+136986	Scroll: Granitebark Blessing
+136987	Scroll: Granitebark Blessing Rk. II
+136988	Scroll: Granitebark Blessing Rk. III
+131955	Scroll: Rain of Razors
+143904	Scroll: Shieldstone Blessing
+143905	Scroll: Shieldstone Blessing Rk. II
+143906	Scroll: Shieldstone Blessing Rk. III
+130957	Scroll: Stonebark Blessing
+130959	Scroll: Stonebark Blessing Rk. III
+136971	Scroll: Sunbeam Blessing
+136972	Scroll: Sunbeam Blessing Rk. II
+136973	Scroll: Sunbeam Blessing Rk. III
+130942	Scroll: Sunbreeze Blessing
+130943	Scroll: Sunbreeze Blessing Rk. II
+130944	Scroll: Sunbreeze Blessing Rk. III
+143889	Scroll: Sunfire Blessing
+143890	Scroll: Sunfire Blessing Rk. II
+37832	Seal of Prismatic Power
+102714	Sentient Prismatic Scale Shroud
+102715	Sentient Prismatic Scale Shroud
+102704	Sentient Prismatic Wyvern-Hoop
+102705	Sentient Prismatic Wyvern-Hoop
+62621	Senvial's Blessing
+105745	Shard of Everliving Clay
+80399	Shard of Phenomenal Power
+1741	Shorn Head of Narandi
+51448	Shorn Murkglider Tentacle
+120323	Shorn Tendril of Terror's Minion
+128510	Shorn Ut`len Tentacle
+102650	Shortblade of Prismatic Destruction
+77982	Skill: Razorarc
+82434	Skyshorn Aquamarine
+39959	Sleeves of Phenomenal Power
+39839	Sleeves of Prismatic Power
+39962	Slippers of Phenomenal Power
+39842	Slippers of Prismatic Power
+118869	Spell: Aurora of Dawnlight
+118870	Spell: Aurora of Dawnlight Rk. II
+118871	Spell: Aurora of Dawnlight Rk. III
+125052	Spell: Aurora of Daybreak
+125053	Spell: Aurora of Daybreak Rk. II
+116005	Spell: Aurora of Morrow
+116006	Spell: Aurora of Morrow Rk. II
+116007	Spell: Aurora of Morrow Rk. III
+115868	Spell: Auroral Darkness
+115869	Spell: Auroral Darkness Rk. II
+115870	Spell: Auroral Darkness Rk. III
+7610	Spell: Blessing of Aegolism
+59583	Spell: Blessing of Austerity
+77009	Spell: Blessing of Devotion
+26963	Spell: Blessing of Faith
+117978	Spell: Blessing of Loyalty
+117979	Spell: Blessing of Loyalty Rk. II
+117980	Spell: Blessing of Loyalty Rk. III
+77095	Spell: Blessing of Oak
+26962	Spell: Blessing of Piety
+78040	Spell: Blessing of Purpose
+78041	Spell: Blessing of Purpose Rk. II
+28531	Spell: Blessing of Replenishment
+115207	Spell: Blessing of Resolve
+115208	Spell: Blessing of Resolve Rk. II
+115209	Spell: Blessing of Resolve Rk. III
+28563	Spell: Blessing of Reverence
+77107	Spell: Blessing of Steeloak
+59572	Spell: Blessing of Temperance
+78266	Spell: Blessing of the Direwild
+78267	Spell: Blessing of the Direwild Rk. II
+78268	Spell: Blessing of the Direwild Rk. III
+118226	Spell: Blessing of the Heartwood
+118227	Spell: Blessing of the Heartwood Rk. II
+118228	Spell: Blessing of the Heartwood Rk. III
+115436	Spell: Blessing of the Ironwood
+115437	Spell: Blessing of the Ironwood Rk. II
+115438	Spell: Blessing of the Ironwood Rk. III
+28541	Spell: Blessing of the Nine
+125554	Spell: Blessing of the Timbercore
+125555	Spell: Blessing of the Timbercore Rk. II
+125556	Spell: Blessing of the Timbercore Rk. III
+124766	Spell: Blessing of Will
+124767	Spell: Blessing of Will Rk. II
+126495	Spell: Chaotic Blessing
+126496	Spell: Chaotic Blessing Rk. II
+19208	Spell: Divine Light
+119531	Spell: Sundew Blessing
+119532	Spell: Sundew Blessing Rk. II
+119533	Spell: Sundew Blessing Rk. III
+125535	Spell: Sunrise Blessing
+125536	Spell: Sunrise Blessing Rk. II
+125537	Spell: Sunrise Blessing Rk. III
+128303	Spiked Pauldrons of the Prismatic Selyrah
+17147	Spiritual Prismatic Pack
+62880	Staff of Everliving Brambles
+127952	Staff of Everliving Brambles Ornamentation
+16576	Staff of Phenomenal Power
+127963	Staff of Phenomenal Power Ornamentation
+12665	Staff of Prismatic Power
+127947	Staff of Prismatic Power Ornamentation
+117401	Swirling Orb of Obscurity
+25320	Sword of Blessings
+40991	Taelosian Honey Wheat Crunch Razorfin
+89865	Tanned Razorhide Sleeves
+76682	Tempus Faycite Shard: Razor's Edge Discipline
+127598	The Warlord's Blessing
+131213	Tome of Razor's Edge Discipline
+131214	Tome of Razor's Edge Discipline Rk. II
+131215	Tome of Razor's Edge Discipline Rk. III
+113532	Trade-In Gem: Sundew Blessing Rk. II
+46542	Twin-Edged Razorfist
+127153	Unfired Ancient Prismatic Brawl Stick Ornament
+67778	Unpowered Staff of Phenomenal Power
+39212	Vertekin's Blessing of Combat
+99170	Vial of 'The Blessing'
+11304	Vial of Elemental Binding
+32557	Vial of Prismatic Dye
+26588	Wand of Casual Blessings
+101536	Wendia's Blessing
+89295	Wrap of Eight Blessings
+89292	Wrap of Five Blessings
+89291	Wrap of Four Blessings
+89294	Wrap of Seven Blessings
+89293	Wrap of Six Blessings
+89290	Wrap of Three Blessings
+39960	Wristcuff of Phenomenal Power
+39840	Wristcuff of Prismatic Power

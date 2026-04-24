@@ -1,0 +1,218 @@
+[
+    {
+        "zone": "northkarana",
+        "fabled": {
+            "id": "13118",
+            "name": "The_Fabled_GrimFeather"
+        },
+        "base": [
+            {
+                "id": "13110",
+                "name": "GrimFeather"
+            }
+        ]
+    },
+    {
+        "zone": "qey2hh1",
+        "fabled": {
+            "id": "12169",
+            "name": "The_Fabled_Chief_Goonda"
+        },
+        "base": [
+            {
+                "id": "12068",
+                "name": "Chief_Goonda"
+            }
+        ]
+    },
+    {
+        "zone": "qeynos2",
+        "fabled": {
+            "id": "2148",
+            "name": "The_Fabled_Fippy_Darkpaw"
+        },
+        "base": [
+            {
+                "id": "2001",
+                "name": "Fippy_Darkpaw"
+            },
+            {
+                "id": "2109",
+                "name": "Fippy_Darkpaw"
+            },
+            {
+                "id": "2119",
+                "name": "Fippy_Darkpaw"
+            }
+        ]
+    },
+    {
+        "zone": "highpass",
+        "fabled": {
+            "id": "5134",
+            "name": "The_Fabled_Grenix_Mucktail"
+        },
+        "base": [
+            {
+                "id": "5133",
+                "name": "Grenix_Mucktail"
+            }
+        ]
+    },
+    {
+        "zone": "beholder",
+        "fabled": {
+            "id": "16034",
+            "name": "The_Fabled_King_Xorbb"
+        },
+        "base": [
+            {
+                "id": "16033",
+                "name": "King_Xorbb"
+            }
+        ]
+    },
+    {
+        "zone": "misty",
+        "fabled": {
+            "id": "33157",
+            "name": "The_Fabled_Mooto"
+        },
+        "base": [
+            {
+                "id": "33104",
+                "name": "Mooto"
+            }
+        ]
+    },
+    {
+        "zone": "najena",
+        "fabled": {
+            "id": "44105",
+            "name": "#The_Fabled_Drelzna"
+        },
+        "base": [
+            {
+                "id": "44094",
+                "name": "Drelzna"
+            }
+        ]
+    },
+    {
+        "zone": "najena",
+        "fabled": {
+            "id": "44106",
+            "name": "#The_Fabled_Najena"
+        },
+        "base": [
+            {
+                "id": "44100",
+                "name": "Najena"
+            }
+        ]
+    },
+    {
+        "zone": "crushbone",
+        "fabled": {
+            "id": "58057",
+            "name": "The_Fabled_Emperor_Crush"
+        },
+        "base": [
+            {
+                "id": "58032",
+                "name": "Emperor_Crush"
+            }
+        ]
+    },
+    {
+        "zone": "unrest",
+        "fabled": {
+            "id": "63096",
+            "name": "The_Fabled_Garanel_Rucksif"
+        },
+        "base": [
+            {
+                "id": "63062",
+                "name": "Garanel_Rucksif"
+            }
+        ]
+    },
+    {
+        "zone": "butcher",
+        "fabled": {
+            "id": "68246",
+            "name": "The_Fabled_Zarchoomi"
+        },
+        "base": [
+            {
+                "id": "68185",
+                "name": "Zarchoomi"
+            }
+        ]
+    },
+    {
+        "zone": "butcher",
+        "fabled": {
+            "id": "68249",
+            "name": "The_Fabled_Corflunk"
+        },
+        "base": [
+            {
+                "id": "68146",
+                "name": "Corflunk"
+            }
+        ]
+    },
+    {
+        "zone": "oot",
+        "fabled": {
+            "id": "69135",
+            "name": "The_Fabled_Allizewsaur"
+        },
+        "base": [
+            {
+                "id": "69018",
+                "name": "Allizewsaur"
+            }
+        ]
+    },
+    {
+        "zone": "sebilis",
+        "fabled": {
+            "id": "89191",
+            "name": "#The_Fabled_Arch_Duke_Iatol"
+        },
+        "base": [
+            {
+                "id": "89172",
+                "name": "Arch_Duke_Iatol"
+            }
+        ]
+    },
+    {
+        "zone": "sebilis",
+        "fabled": {
+            "id": "89192",
+            "name": "#The_Fabled_Tolapumj"
+        },
+        "base": [
+            {
+                "id": "89000",
+                "name": "Tolapumj"
+            }
+        ]
+    },
+    {
+        "zone": "chardok",
+        "fabled": {
+            "id": "103218",
+            "name": "#The_Fabled_Prince_Selrach_Di`zok"
+        },
+        "base": [
+            {
+                "id": "103080",
+                "name": "Prince_Selrach_Di`zok"
+            }
+        ]
+    }
+]

@@ -1,0 +1,7 @@
+﻿id	name
+71170	Foreboding Shawl of Obscurity
+61225	Greaves of Obscurity
+68299	Kerasian Axe of Ire
+127915	Kerasian Axe of Ire Ornamentation
+117401	Swirling Orb of Obscurity
+11304	Vial of Elemental Binding

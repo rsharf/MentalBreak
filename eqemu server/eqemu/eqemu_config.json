@@ -1,0 +1,60 @@
+{
+ "server": {
+  "database": {
+   "db": "peq",
+   "host": "127.0.0.1",
+   "password": "1",
+   "port": "3306",
+   "username": "root"
+  },
+  "directories": {
+   "opcodes": "assets/opcodes/",
+   "patches": "assets/patches/"
+  },
+  "files": {
+   "mail_opcodes": "assets/opcodes/mail_opcodes.conf",
+   "opcodes": "assets/opcodes/opcodes.conf"
+  },
+  "qsdatabase": {
+   "db": "peq",
+   "host": "127.0.0.1",
+   "password": "1",
+   "port": "3306",
+   "username": "root"
+  },
+  "ucs": {
+   "host": "127.0.0.1",
+   "port": "7778"
+  },
+  "world": {
+   "key": "yuYGI6iKu76rkhoi9&bFyEIrHcMu65dont",
+   "address" : "127.0.0.1",
+   "localaddress": "127.0.0.1",
+   "locked": "false",
+   "loginserver": {
+    "account": "",
+    "host": "127.0.0.1",
+    "password": "",
+    "port": "5998"
+   },
+   "longname": "BrainBreak",
+   "shortname": "BrainBreak",
+   "tcp": {
+    "ip": "127.0.0.1",
+    "port": "9000"
+   },
+   "telnet": {
+    "enabled": "false",
+    "ip": "0.0.0.0",
+    "port": "9001"
+   }
+  },
+  "zones": {
+   "defaultstatus": "0",
+   "ports": {
+    "high": "7500",
+    "low": "7100"
+   }
+  }
+ }
+}
