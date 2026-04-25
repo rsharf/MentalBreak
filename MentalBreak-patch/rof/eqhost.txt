@@ -1,0 +1,2 @@
+[LoginServer]
+Host=YOURSERVER.ddns.net:5999
