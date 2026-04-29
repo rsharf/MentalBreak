@@ -13,10 +13,10 @@ downloads:
   zip: ""
   size: 1824256
 - name: eqhost.txt
-  md5: 7C9E0B6D6930933A3AE66AA8A8399A73
+  md5: DA4BC38D15A11E5CE31D19309FAE0EAC
   date: "2026-04-25"
   zip: ""
-  size: 44
+  size: 46
 - name: spells_us.txt
   md5: 02D93E0D52EFD59CE01940F606A6C877
   date: "2026-04-25"

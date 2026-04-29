@@ -293,42 +293,41 @@ function event_connect(e)
 		e.self:Message(15, "A mysterious voice whispers to you, 'welcome, youve been granted the origin AA. press V and use that skill to start your adventure!'")
 		eq.set_global("origin_granted", "1", 5, "F")
 	end
+
+	-- AA XP requires level 51+. Reset any stale allocation for sub-51 characters.
+	if e.self:GetLevel() < 51 and e.self:GetAAEXPPercentage() > 0 then
+		e.self:SetAAEXPPercentage(0)
+	end
 end
 
 function grant_class_aas(e)
 	local is_bard = false
-	local has_spells = false
 	
 	local mask_str = e.self:GetBucket("GestaltClasses")
-	local mask = 0
-	if mask_str ~= "" then
-		mask = tonumber(mask_str) or 0
-	end
+	local mask = tonumber(mask_str) or 0
 	
-	local primary_class_bit = 2 ^ (e.self:GetClass() - 1)
-	local full_mask = mask + primary_class_bit
+	-- Count how many classes the player has by counting the bits in the mask
+	local class_count = 0
+	local temp_mask = mask
+	while temp_mask > 0 do
+		if temp_mask % 2 == 1 then
+			class_count = class_count + 1
+		end
+		temp_mask = math.floor(temp_mask / 2)
+	end
 	
 	-- Check if Bard bit (128) is set
-	if (math.floor(full_mask / 128) % 2 == 1) then
+	if (math.floor(mask / 128) % 2 == 1) then
 		is_bard = true
-	end
-	
-	-- Spellcasters: 2(Clr), 3(Pal), 4(Rng), 5(SHD), 6(Dru), 8(Brd), 10(Shm), 11(Nec), 12(Wiz), 13(Mag), 14(Enc), 15(Bst)
-	local spellcasters = {2, 3, 4, 5, 6, 8, 10, 11, 12, 13, 14, 15}
-	for _, c in ipairs(spellcasters) do
-		local c_bit = 2 ^ (c - 1)
-		if (math.floor(full_mask / c_bit) % 2 == 1) then
-			has_spells = true
-			break
-		end
 	end
 
 	if is_bard then
 		e.self:GrantAlternateAdvancementAbility(212, 1)
 	end
 	
-	if has_spells then
-		e.self:GrantAlternateAdvancementAbility(347, 4) -- Mnemonic Retention Rank 4 (12 slots)
+	-- If they have more than 1 class, automatically grant max spell slots
+	if class_count > 1 then
+		e.self:GrantAlternateAdvancementAbility(347, 4, true) -- Mnemonic Retention Rank 4 (12 slots)
 	end
 end
 
@@ -529,6 +528,12 @@ function event_say(e)
 			-- Clamp between 0 and 100
 			if new_percent < 0 then new_percent = 0 end
 			if new_percent > 100 then new_percent = 100 end
+
+			-- AA XP allocation is locked to level 51+
+			if new_percent > 0 and e.self:GetLevel() < 51 then
+				e.self:Message(13, "Alternate Advancement experience requires level 51.")
+				return
+			end
 
 			e.self:SetAAEXPPercentage(new_percent)
 			e.self:Message(15, "Set your Alternate Advancement Experience to " .. new_percent .. "%")
