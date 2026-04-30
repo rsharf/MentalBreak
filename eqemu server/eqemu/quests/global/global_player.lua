@@ -294,10 +294,7 @@ function event_connect(e)
 		eq.set_global("origin_granted", "1", 5, "F")
 	end
 
-	-- AA XP requires level 51+. Reset any stale allocation for sub-51 characters.
-	if e.self:GetLevel() < 51 and e.self:GetAAEXPPercentage() > 0 then
-		e.self:SetAAEXPPercentage(0)
-	end
+
 end
 
 function grant_class_aas(e)
@@ -501,45 +498,5 @@ function event_task_complete(e)
 end
 
 function event_say(e)
-	-- Intercept our custom AA Experience command for players whose UIs block Level < 51
-	if string.lower(e.message):find("^aaxp") then
-		local modifier, val_str = string.match(e.message, "^aaxp%s*([%+%-]?)(%d*)")
-		
-		-- Handle single '+' or '-' buttons clicks from our proxy DLL UI hook
-		if val_str == "" and modifier == "+" then
-			val_str = "5"
-		elseif val_str == "" and modifier == "-" then
-			val_str = "5"
-		end
-		
-		local percent = tonumber(val_str)
-		
-		if percent then
-			local new_percent = percent
-			if modifier == "+" or modifier == "-" then
-				local current_percent = e.self:GetAAEXPPercentage()
-				if modifier == "+" then
-					new_percent = current_percent + percent
-				else
-					new_percent = current_percent - percent
-				end
-			end
-			
-			-- Clamp between 0 and 100
-			if new_percent < 0 then new_percent = 0 end
-			if new_percent > 100 then new_percent = 100 end
 
-			-- AA XP allocation is locked to level 51+
-			if new_percent > 0 and e.self:GetLevel() < 51 then
-				e.self:Message(13, "Alternate Advancement experience requires level 51.")
-				return
-			end
-
-			e.self:SetAAEXPPercentage(new_percent)
-			e.self:Message(15, "Set your Alternate Advancement Experience to " .. new_percent .. "%")
-		else
-			e.self:Message(13, "[Error] You must specify a valid amount or increment. Examples: aaxp 50, aaxp +5, aaxp -10")
-		end
-		return
-	end
 end

@@ -1949,14 +1949,6 @@ void Client::Handle_OP_AAAction(const EQApplicationPacket *app)
 		PurchaseAlternateAdvancementRank(action->ability);
 	}
 	else if (action->action == aaActionDisableEXP) { //Turn Off AA Exp
-		// If player is under 51, the RoF2 client UI may erroneously send this packet
-		// automatically when it receives OP_SendAAStats due to a hardcoded level check.
-		// We ignore this auto-correction so the proxy DLL's visual force-enable holds server-side.
-		if (GetLevel() < 51) {
-			LogAA("Ignoring aaActionDisableEXP for player under level 51 to prevent UI auto-reset loop");
-			// Do NOT reset perAA and do NOT send another stats update, just ignore it.
-			return;
-		}
 
 		if (m_epp.perAA > 0) {
 			MessageString(Chat::White, AA_OFF);
@@ -1966,11 +1958,6 @@ void Client::Handle_OP_AAAction(const EQApplicationPacket *app)
 		SendAlternateAdvancementStats();
 	}
 	else if (action->action == aaActionSetEXP) {
-		// Prevent the client from auto-zeroing when level < 51
-		if (GetLevel() < 51 && action->exp_value == 0) {
-			LogAA("Ignoring aaActionSetEXP 0 for player under level 51 to prevent UI auto-reset loop");
-			return;
-		}
 
 		if (m_epp.perAA == 0)
 			MessageString(Chat::White, AA_ON);
