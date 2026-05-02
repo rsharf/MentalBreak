@@ -28,13 +28,14 @@ public:
 
 	static LoginAccountsRepository::LoginAccounts CreateAccountFromContext(
 		Database &db,
-		LoginAccountContext c
+		LoginAccountContext c,
+		int encryption_mode = 14
 	)
 	{
 		auto a = LoginAccountsRepository::NewEntity();
 
 		if (!c.password_is_encrypted) {
-			auto e = EncryptPasswordFromContext(c);
+			auto e = EncryptPasswordFromContext(c, encryption_mode);
 			a.account_password = e.password;
 		}
 

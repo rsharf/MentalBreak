@@ -6,6 +6,7 @@
     "user": "root",
     "password": "1"
   },
+  "local_network": "192.168.0.",
   "account": {
     "auto_create_accounts": true
   },
@@ -21,7 +22,7 @@
     "port": 6000
   },
   "security": {
-    "mode": 14,
+    "mode": 0,
     "allow_password_login": true,
     "allow_token_login": false
   },
@@ -32,11 +33,11 @@
     "dump_packets_out": false
   },
   "client_configuration": {
-    "titanium_port": 5998,
-    "titanium_opcodes": "login_opcodes.conf",
-    "sod_port": 5999,
-    "sod_opcodes": "login_opcodes_sod.conf",
-    "display_expansions" : true,
-    "max_expansions_mask" : 524287
-  }
+  "titanium_port": 5998,
+  "titanium_opcodes": "assets/opcodes/login_opcodes_larion.conf",
+  "sod_port": 5999,
+  "sod_opcodes": "assets/opcodes/login_opcodes_sod.conf",
+  "display_expansions": true,
+  "max_expansions_mask": 524287
+}
 }

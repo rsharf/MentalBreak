@@ -16,7 +16,7 @@ uint64 AccountManagement::CreateLoginServerAccount(LoginAccountContext c)
 		return -1;
 	}
 
-	auto a = LoginAccountsRepository::CreateAccountFromContext(database, c);
+	auto a = LoginAccountsRepository::CreateAccountFromContext(database, c, server.options.GetEncryptionMode());
 	if (a.id > 0) {
 		return (int64) a.id;
 	}

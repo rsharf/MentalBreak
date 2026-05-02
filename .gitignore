@@ -93,3 +93,5 @@ grep_results.txt
 search_results_v2.txt
 ultimate_results.txt
 epics_loose.txt
+
+eqemu server/peq/create_tables_content.sql

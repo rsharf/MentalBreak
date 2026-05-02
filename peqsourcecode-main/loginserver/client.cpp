@@ -307,7 +307,7 @@ void Client::AttemptLoginAccountCreation(LoginAccountContext c)
 		c.login_account_id = account_id;
 		if (account_id > 0) {
 			LogInfo("LSPX | Found and creating eqemu account [{}]", account_id);
-			auto a = LoginAccountsRepository::CreateAccountFromContext(database, c);
+			auto a = LoginAccountsRepository::CreateAccountFromContext(database, c, server.options.GetEncryptionMode());
 			if (a.id > 0) {
 				DoSuccessfulLogin(a);
 				return;
@@ -322,7 +322,7 @@ void Client::AttemptLoginAccountCreation(LoginAccountContext c)
 
 	if (server.options.CanAutoCreateAccounts() && c.source_loginserver == "local") {
 		LogInfo("CanAutoCreateAccounts enabled, attempting to crate account [{}]", c.username);
-		auto a = LoginAccountsRepository::CreateAccountFromContext(database, c);
+		auto a = LoginAccountsRepository::CreateAccountFromContext(database, c, server.options.GetEncryptionMode());
 		if (a.id > 0) {
 			DoSuccessfulLogin(a);
 			return;

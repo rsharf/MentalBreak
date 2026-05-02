@@ -32,6 +32,9 @@ def main():
                 continue
             full_path = os.path.join(root, fname)
             rel_path = os.path.relpath(full_path, PATCH_DIR).replace("\\", "/")
+            # GitHub Release assets can't have slashes — replace with underscores
+            # to match how they were uploaded (e.g. SpellIcons/0.png -> SpellIcons_0.png)
+            rel_path = rel_path.replace("/", "_")
             md5 = md5_file(full_path)
             size = os.path.getsize(full_path)
             entries.append((rel_path, md5, size))

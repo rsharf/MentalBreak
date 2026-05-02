@@ -8,3 +8,4 @@ ping -n 2 127.0.0.1 > nul
 start eqlaunch.exe zone
 start ucs.exe
 start queryserv.exe
+start "" "C:\Users\14084\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\No-IP DUC\DUC.lnk"

@@ -4260,18 +4260,20 @@ void ZoneDatabase::SaveCharacterEXPModifier(Client* c)
 		return;
 	}
 
-	EXPModifier m = zone->exp_modifiers[c->CharacterID()];
+	if (zone->exp_modifiers.find(c->CharacterID()) != zone->exp_modifiers.end()) {
+		EXPModifier m = zone->exp_modifiers[c->CharacterID()];
 
-	CharacterExpModifiersRepository::ReplaceOne(
-		*this,
-		CharacterExpModifiersRepository::CharacterExpModifiers{
-			.character_id = static_cast<int32_t>(c->CharacterID()),
-			.zone_id = static_cast<int32_t>(zone->GetZoneID()),
-			.instance_version = zone->GetInstanceVersion(),
-			.aa_modifier = m.aa_modifier,
-			.exp_modifier = m.exp_modifier
-		}
-	);
+		CharacterExpModifiersRepository::ReplaceOne(
+			*this,
+			CharacterExpModifiersRepository::CharacterExpModifiers{
+				.character_id = static_cast<int32_t>(c->CharacterID()),
+				.zone_id = static_cast<int32_t>(zone->GetZoneID()),
+				.instance_version = zone->GetInstanceVersion(),
+				.aa_modifier = m.aa_modifier,
+				.exp_modifier = m.exp_modifier
+			}
+		);
+	}
 }
 
 void ZoneDatabase::LoadCharacterTitleSets(Client* c)

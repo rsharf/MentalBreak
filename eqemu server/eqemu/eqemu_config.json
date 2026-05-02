@@ -14,6 +14,7 @@
   "files": {
    "mail_opcodes": "assets/opcodes/mail_opcodes.conf",
    "opcodes": "assets/opcodes/opcodes.conf"
+
   },
   "qsdatabase": {
    "db": "peq",
@@ -23,13 +24,13 @@
    "username": "root"
   },
   "ucs": {
-   "host": "127.0.0.1",
+   "host": "24.8.40.42",
    "port": "7778"
   },
   "world": {
    "key": "yuYGI6iKu76rkhoi9&bFyEIrHcMu65dont",
-   "address" : "mentalbreak.myftp.org",
-   "localaddress": "127.0.0.1",
+   "address": "mentalbreak.myftp.org",
+   "localaddress": "192.168.0.15",
    "locked": "false",
    "loginserver": {
     "account": "",
@@ -40,7 +41,7 @@
    "longname": "BrainBreak",
    "shortname": "BrainBreak",
    "tcp": {
-    "ip": "127.0.0.1",
+    "ip": "0.0.0.0",
     "port": "9000"
    },
    "telnet": {

@@ -53,8 +53,8 @@
 
 struct EXPModifier
 {
-	float aa_modifier;
-	float exp_modifier;
+	float aa_modifier = 1.0f;
+	float exp_modifier = 1.0f;
 };
 
 class DynamicZone;
